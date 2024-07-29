@@ -4,7 +4,12 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 const FormComponent = () => {
   const [formData, setFormData] = useState({
-    name: '',
+    provinsi: '',
+    kota: '',
+    kecamatan: '',
+    desa: '',
+    klasifikasi_desa: '',
+    kategori_pengumpulan: '',
     email: '',
     message: '',
     category: '',
@@ -29,18 +34,119 @@ const FormComponent = () => {
 
   return (
     <Container className="mt-4">
-      <h2 className="text-center">Contact Form</h2>
+      <h2 className="text-center">Form BRIN</h2>
       <Form onSubmit={handleSubmit}>
-        <Form.Group controlId="formName">
-          <Form.Label>Name</Form.Label>
+        <Form.Group controlId="formProvinsi">
+          <Form.Label>101. Provinsi</Form.Label>
           <Form.Control
             type="text"
-            name="name"
-            value={formData.name}
+            name="provinsi"
+            value={formData.provinsi}
             onChange={handleChange}
-            placeholder="Enter your name"
+            placeholder="Enter your Provinsi"
           />
         </Form.Group>
+        <Form.Group controlId="formKota" className='mt-3'>
+          <Form.Label>102. Kabupaten/Kota</Form.Label>
+          <Form.Control
+            type="text"
+            name="kota"
+            value={formData.kota}
+            onChange={handleChange}
+            placeholder="Enter your Kabupaten/kota"
+          />
+        </Form.Group>
+        <Form.Group controlId="formKecamatan" className='mt-3'>
+          <Form.Label>103. Kecamatan</Form.Label>
+          <Form.Control
+            type="text"
+            name="kecamatan"
+            value={formData.kecamatan}
+            onChange={handleChange}
+            placeholder="Enter your Kecamatan"
+          />
+        </Form.Group>
+        <Form.Group controlId="formDesa" className='mt-3'>
+          <Form.Label>104. Desa/Kelurahan</Form.Label>
+          <Form.Control
+            type="text"
+            name="desa"
+            value={formData.desa}
+            onChange={handleChange}
+            placeholder="Enter your Desa/Kelurahan"
+          />
+        </Form.Group>
+
+        <Form.Group controlId="formKlasifikasi_desa" className='mt-3'>
+          <Form.Label>105. Klasifikasi Desa/Kelurahan</Form.Label>
+          <Form.Control
+            as="select"
+            name="klasifikasi_desa"
+            value={formData.klasifikasi_desa}
+            onChange={handleChange}
+          >
+            <option value="">Select a category</option>
+            <option value="kota">1. Kelurahan/Perkotaan</option>
+            <option value="desa">2. Desa/Perdesaan</option>
+          </Form.Control>
+        </Form.Group>
+
+        {formData.klasifikasi_desa === 'desa' && (
+          <Form.Group controlId="formPregnantDetails">
+            <Form.Label>Data Desa</Form.Label>
+            <Form.Control
+              type="text"
+              name="pregnantDetails"
+              value={formData.pregnantDetails}
+              onChange={handleChange}
+              placeholder="Enter details for Desa Details"
+            />
+          </Form.Group>
+        )}
+
+        {formData.klasifikasi_desa === 'kota' && (
+          <Form.Group controlId="formPregnantDetails">
+            <Form.Label>Data Kota</Form.Label>
+            <Form.Control
+              type="text"
+              name="pregnantDetails"
+              value={formData.pregnantDetails}
+              onChange={handleChange}
+              placeholder="Enter details for Desa Details"
+            />
+          </Form.Group>
+        )}
+
+        <Form.Group controlId="formKlasifikasi_pengumpulan" className='mt-3'>
+          <Form.Label>106. Kategori Pengumpulan Data</Form.Label>
+          <Form.Control
+            as="select"
+            name="klasifikasi_desa"
+            value={formData.kategori_pengumpulan}
+            onChange={handleChange}
+          >
+            <option value="">Select a category</option>
+            <option value="data_dasar">1. Data dasar</option>
+            <option value="Monev-1">2. Monev-1</option>
+            <option value="Monev-2">3. Monev-2</option>
+            <option value="Monev-3">4. Monev-3</option>
+            <option value="Monev-4">5. Monev-4</option>
+          </Form.Control>
+        </Form.Group>
+
+        {formData.kategori_pengumpulan === 'data_dasar' && (
+          <Form.Group controlId="formPregnantDetails">
+            <Form.Label>Data Kota</Form.Label>
+            <Form.Control
+              type="text"
+              name="pregnantDetails"
+              value={formData.pregnantDetails}
+              onChange={handleChange}
+              placeholder="Enter details for Desa Details"
+            />
+          </Form.Group>
+        )}
+
         <Form.Group controlId="formEmail">
           <Form.Label>Email address</Form.Label>
           <Form.Control
@@ -93,7 +199,7 @@ const FormComponent = () => {
           </Form.Group>
         )}
 
-{formData.category === 'bayi' && (
+        {formData.category === 'bayi' && (
           <Form.Group controlId="formBabyDetails">
             <Form.Label>Baby Details</Form.Label>
             <Form.Control
