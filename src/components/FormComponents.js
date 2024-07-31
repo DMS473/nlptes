@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 const FormComponent = () => {
   const [formData, setFormData] = useState({
-    provinsi: '',
+    province_code: '',
     kota: '',
     kecamatan: '',
     desa: '',
@@ -36,12 +36,64 @@ const FormComponent = () => {
     <Container className="mt-4">
       <h2 className="text-center">Form BRIN</h2>
       <Form onSubmit={handleSubmit}>
+
+        <Form.Group controlId="formKlasifikasi_desa" className='mt-3'>
+          <Form.Label>101. Provinsi</Form.Label>
+          <Form.Control
+            as="select"
+            name="province_code"
+            value={formData.province_code}
+            onChange={handleChange}
+          >
+            <option value="">Pilih Provinsi</option>
+            <option value="11">Nanggroe Aceh Darussalam</option>
+            <option value="12">Sumatera Utara</option>
+            <option value="13">Sumatera Barat</option>
+            <option value="14">Riau</option>
+            <option value="15">Jambi</option>
+            <option value="16">Sumatera Selatan</option>
+            <option value="17">Bengkulu</option>
+            <option value="18">Lampung</option>
+            <option value="19">Bangka Belitung</option>
+            <option value="21">Kepulauan Riau</option>
+            <option value="31">DKI Jakarta</option>
+            <option value="32">Jawa Barat</option>
+            <option value="33">Jawa Tengah</option>
+            <option value="34">DI Yogyakarta</option>
+            <option value="34">Daerah Istimewa Yogyakarta</option>
+            <option value="35">Jawa Timur</option>
+            <option value="36">Banten</option>
+            <option value="51">Bali</option>
+            <option value="52">Nusa Tenggara Barat</option>
+            <option value="53">Nusa Tenggara Timur</option>
+            <option value="61">Kalimantan Barat</option>
+            <option value="62">Kalimantan Tengah</option>
+            <option value="63">Kalimantan Selatan</option>
+            <option value="64">Kalimantan Timur</option>
+            <option value="65">Kalimantan Utara</option>
+            <option value="71">Sulawesi Utara</option>
+            <option value="72">Sulawesi Tengah</option>
+            <option value="73">Sulawesi Selatan</option>
+            <option value="74">Sulawesi Tenggara</option>
+            <option value="75">Gorontalo</option>
+            <option value="76">Sulawesi Barat</option>
+            <option value="81">Maluku</option>
+            <option value="82">Maluku Utara</option>
+            <option value="91">Papua</option>
+            <option value="92">Papua Barat Daya</option>
+            <option value="18">Lampung</option>
+          </Form.Control>
+        </Form.Group>
+
+        
+        
+        
         <Form.Group controlId="formProvinsi">
           <Form.Label>101. Provinsi</Form.Label>
           <Form.Control
             type="text"
-            name="provinsi"
-            value={formData.provinsi}
+            name="province_code"
+            value={formData.province_code}
             onChange={handleChange}
             placeholder="Enter your Provinsi"
           />
