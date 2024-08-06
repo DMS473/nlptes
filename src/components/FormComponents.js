@@ -1,36 +1,71 @@
-import React, { useState } from 'react';
-import { Form, Button, Container } from 'react-bootstrap';
+import React, { useState, useEffect } from 'react';
+import { Form, FormControl, FormGroup, FormLabel, Button, Container } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import indonesia_provinces from '../data/provinces.json';
+import indonesia_cities from '../data/cities.json';
+import indonesia_districts from '../data/districts.json';
 
 const FormComponent = () => {
   const [formData, setFormData] = useState({
     province_code: '',
-    kota: '',
-    kecamatan: '',
-    desa: '',
-    klasifikasi_desa: '',
-    kategori_pengumpulan: '',
-    email: '',
-    message: '',
-    category: '',
-    pregnantDetails: '',
-    babyDetails: '',
-    badutaDetails: '',
-    balitaDetails: '',
-    remajaPutriDetails: '',
-    calonPengantinDetails: ''
+    city_code: '',
+    district_code: '',
   });
 
-  const handleChange = (e) => {
-    const { name, value } = e.target;
-    setFormData({ ...formData, [name]: value });
+  const [selectedProvince, setSelectedProvince] = useState('');
+  const [selectedCity, setSelectedCity] = useState('');
+  const [cities, setCities] = useState([]);
+
+
+  const handleProvinceChange = (e) => {
+    const selectedProvince = e.target.value;
+    setFormData({
+      ...formData,
+      province_code: selectedProvince,
+      city_code: '' // Reset city_code when province changes
+    });
   };
+
+  const handleCityChange = (e) => {
+    const selectedCity = e.target.value;
+    setFormData({
+      ...formData,
+      city_code: selectedCity,
+      district_code: ''
+    });
+  };
+
+  const handleDistrictChange = (e) => {
+    const selectedDistrict = e.target.value;
+    setFormData({
+      ...formData,
+      district_code: selectedDistrict
+    });
+  };
+
+  // const handleChange = (e) => {
+  //   const { name, value } = e.target;
+  //   setFormData({ ...formData, [name]: value });
+  //   setSelectedProvince(e.target.value);
+  //   console.log(selectedProvince);
+  // };
 
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log('Form data submitted:', formData);
     // Lakukan sesuatu dengan data form, misalnya mengirimnya ke server
   };
+
+  // Filter cities based on the selected province
+  const filteredCities = indonesia_cities.filter(city => city.province_code === formData.province_code);
+  const filteredDistricts = indonesia_districts.filter(district => district.city_code === formData.city_code);
+
+
+  // useEffect(() => {
+  //   // Filter kabupaten/kota berdasarkan province code yang dipilih
+  //   const filteredCities = indonesia_cities.filter(city => city.province_code === selectedProvince);
+  //   setCities(filteredCities);
+  // }, [selectedProvince]);
 
   return (
     <Container className="mt-4">
@@ -43,82 +78,56 @@ const FormComponent = () => {
             as="select"
             name="province_code"
             value={formData.province_code}
-            onChange={handleChange}
+            onChange={handleProvinceChange}
           >
             <option value="">Pilih Provinsi</option>
-            <option value="11">Nanggroe Aceh Darussalam</option>
-            <option value="12">Sumatera Utara</option>
-            <option value="13">Sumatera Barat</option>
-            <option value="14">Riau</option>
-            <option value="15">Jambi</option>
-            <option value="16">Sumatera Selatan</option>
-            <option value="17">Bengkulu</option>
-            <option value="18">Lampung</option>
-            <option value="19">Bangka Belitung</option>
-            <option value="21">Kepulauan Riau</option>
-            <option value="31">DKI Jakarta</option>
-            <option value="32">Jawa Barat</option>
-            <option value="33">Jawa Tengah</option>
-            <option value="34">DI Yogyakarta</option>
-            <option value="34">Daerah Istimewa Yogyakarta</option>
-            <option value="35">Jawa Timur</option>
-            <option value="36">Banten</option>
-            <option value="51">Bali</option>
-            <option value="52">Nusa Tenggara Barat</option>
-            <option value="53">Nusa Tenggara Timur</option>
-            <option value="61">Kalimantan Barat</option>
-            <option value="62">Kalimantan Tengah</option>
-            <option value="63">Kalimantan Selatan</option>
-            <option value="64">Kalimantan Timur</option>
-            <option value="65">Kalimantan Utara</option>
-            <option value="71">Sulawesi Utara</option>
-            <option value="72">Sulawesi Tengah</option>
-            <option value="73">Sulawesi Selatan</option>
-            <option value="74">Sulawesi Tenggara</option>
-            <option value="75">Gorontalo</option>
-            <option value="76">Sulawesi Barat</option>
-            <option value="81">Maluku</option>
-            <option value="82">Maluku Utara</option>
-            <option value="91">Papua</option>
-            <option value="92">Papua Barat Daya</option>
-            <option value="18">Lampung</option>
+            {indonesia_provinces.map((province) => (
+              <option key={province.code} value={province.code}>
+                {province.name}
+              </option>
+            ))}
           </Form.Control>
         </Form.Group>
 
-        
-        
-        
-        <Form.Group controlId="formProvinsi">
-          <Form.Label>101. Provinsi</Form.Label>
-          <Form.Control
-            type="text"
-            name="province_code"
-            value={formData.province_code}
-            onChange={handleChange}
-            placeholder="Enter your Provinsi"
-          />
-        </Form.Group>
         <Form.Group controlId="formKota" className='mt-3'>
           <Form.Label>102. Kabupaten/Kota</Form.Label>
           <Form.Control
-            type="text"
-            name="kota"
-            value={formData.kota}
-            onChange={handleChange}
-            placeholder="Enter your Kabupaten/kota"
-          />
+            as="select"
+            name="city_code"
+            value={formData.city_code}
+            onChange={handleCityChange}
+          >
+            <option value="">Pilih Kota</option>
+            {filteredCities.map((city) => (
+              <option key={city.code} value={city.code}>
+                {city.name}
+              </option>
+            ))}
+          </Form.Control>
         </Form.Group>
+
+
+
         <Form.Group controlId="formKecamatan" className='mt-3'>
           <Form.Label>103. Kecamatan</Form.Label>
           <Form.Control
-            type="text"
-            name="kecamatan"
-            value={formData.kecamatan}
-            onChange={handleChange}
-            placeholder="Enter your Kecamatan"
-          />
+            as="select"
+            name="district_code"
+            value={formData.district_code}
+            onChange={handleDistrictChange}
+          // placeholder="Enter your Kecamatan"
+          >
+            <option value="">Pilih Kota</option>
+            {filteredDistricts.map((district) => (
+              <option key={district.code} value={district.code}>
+                {district.name}
+              </option>
+            ))}
+          </Form.Control>
         </Form.Group>
-        <Form.Group controlId="formDesa" className='mt-3'>
+
+
+        {/* <Form.Group controlId="formDesa" className='mt-3'>
           <Form.Label>104. Desa/Kelurahan</Form.Label>
           <Form.Control
             type="text"
@@ -127,9 +136,9 @@ const FormComponent = () => {
             onChange={handleChange}
             placeholder="Enter your Desa/Kelurahan"
           />
-        </Form.Group>
+        </Form.Group> */}
 
-        <Form.Group controlId="formKlasifikasi_desa" className='mt-3'>
+        {/* <Form.Group controlId="formKlasifikasi_desa" className='mt-3'>
           <Form.Label>105. Klasifikasi Desa/Kelurahan</Form.Label>
           <Form.Control
             as="select"
@@ -167,9 +176,9 @@ const FormComponent = () => {
               placeholder="Enter details for Desa Details"
             />
           </Form.Group>
-        )}
+        )} */}
 
-        <Form.Group controlId="formKlasifikasi_pengumpulan" className='mt-3'>
+        {/* <Form.Group controlId="formKlasifikasi_pengumpulan" className='mt-3'>
           <Form.Label>106. Kategori Pengumpulan Data</Form.Label>
           <Form.Control
             as="select"
@@ -220,6 +229,7 @@ const FormComponent = () => {
             placeholder="Enter your message"
           />
         </Form.Group>
+        
         <Form.Group controlId="formCategory">
           <Form.Label>Category</Form.Label>
           <Form.Control
@@ -314,7 +324,7 @@ const FormComponent = () => {
               placeholder="Enter details for calon pengantin"
             />
           </Form.Group>
-        )}
+        )} */}
 
         <Button variant="primary" type="submit" className="mt-3">
           Submit
