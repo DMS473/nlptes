@@ -46,18 +46,18 @@ const Home = () => {
             style={{ textAlign: "center" }}
           >
             {" "}
-            <h2>Ai-RIS</h2>
+            <h2>AIRIS</h2>
           </MenuItem>
           <MenuItem icon={<HomeOutlinedIcon />} component={<Link to="/" />}>Home</MenuItem>
           <SubMenu icon={<PeopleOutlinedIcon />} component={<Link to="/ontologi" />} label="Ontology of Concept">
             <MenuItem icon={<PeopleOutlinedIcon />} component={<Link to="/ontologi" />}>Pendahuluan</MenuItem>
             <MenuItem icon={<PeopleOutlinedIcon />} component={<Link to="/konsep" />}>Peta Konsep</MenuItem>
-            <MenuItem icon={<PeopleOutlinedIcon />} component={<Link to="#" />}>Index Topik</MenuItem>
+            {/* <MenuItem icon={<PeopleOutlinedIcon />} component={<Link to="#" />}>Index Topik</MenuItem> */}
           </SubMenu>
-          <MenuItem icon={<ContactsOutlinedIcon />} component={<Link to="category" />}>Contacts</MenuItem>
+          {/* <MenuItem icon={<ContactsOutlinedIcon />} component={<Link to="category" />}>Contacts</MenuItem>
           <MenuItem icon={<ReceiptOutlinedIcon />} component={<Link to="#" />}>Profile</MenuItem>
           <MenuItem icon={<HelpOutlineOutlinedIcon />} component={<Link to="#" />}>FAQ</MenuItem>
-          <MenuItem icon={<CalendarTodayOutlinedIcon />} component={<Link to="#" />}>Calendar</MenuItem>
+          <MenuItem icon={<CalendarTodayOutlinedIcon />} component={<Link to="#" />}>Calendar</MenuItem> */}
         </Menu>
       </Sidebar>
       <main>
