@@ -1,0 +1,260 @@
+[
+    {
+        "nama": "Artefak",
+        "subkategori": [
+            {
+                "nama": "Tempat ibadah",
+                "subkategori": [
+                    {
+                        "nama": "Mesjid",
+                        "subkategori": [
+                            {
+                                "nama": "Ka'bah",
+                                "subkategori": []
+                            },
+                            {
+                                "nama": "Masjidilaqsa",
+                                "subkategori": []
+                            },
+                            {
+                                "nama": "Masjidilharam",
+                                "subkategori": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nama": "Persenjataan",
+                "subkategori": []
+            }
+        ]
+    },
+    {
+        "nama": "Astronomi",
+        "subkategori": [
+            {
+                "nama": "Bintang Syi'ra",
+                "subkategori": []
+            },
+            {
+                "nama": "Bumi",
+                "subkategori": []
+            },
+            {
+                "nama": "Bulan",
+                "subkategori": []
+            },
+            {
+                "nama": "Matahari",
+                "subkategori": []
+            }
+        ]
+    },
+    {
+        "nama": "Peristiwa",
+        "subkategori": [
+            {
+                "nama": "Peristiwa setelah kiamat",
+                "subkategori": [
+                    {
+                        "nama": "Hari kiamat",
+                        "subkategori": []
+                    },
+                    {
+                        "nama": "Hari akhir",
+                        "subkategori": []
+                    }
+                ]
+            },
+            {
+                "nama": "Peristiwa rutin",
+                "subkategori": [
+                    {
+                        "nama": "Haji",
+                        "subkategori": []
+                    },
+                    {
+                        "nama": "Umrah",
+                        "subkategori": []
+                    },
+                    {
+                        "nama": "Jum'at/hari Juma'at",
+                        "subkategori": []
+                    },
+                    {
+                        "nama": "Bulan Ramadan/Ramadan",
+                        "subkategori": []
+                    },
+                    {
+                        "nama": "Hari sabat",
+                        "subkategori": []
+                    },
+                    {
+                        "nama": "Lailatulqadar",
+                        "subkategori": []
+                    }
+                ]
+            },
+            {
+                "nama": "Peristiwa bersejarah",
+                "subkategori": [
+                    {
+                        "nama": "Jahiliah",
+                        "subkategori": []
+                    }
+                ]
+            },
+            {
+                "nama": "Peristiwa konkrit",
+                "subkategori": [
+                    {
+                        "nama": "subuh",
+                        "subkategori": []
+                    },
+                    {
+                        "nama": "fajr",
+                        "subkategori": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nama": "Dewa palsu",
+        "subkategori": [
+            {
+                "nama": "Al-Qur'an",
+                "subkategori": []
+            },
+            {
+                "nama": "Injil",
+                "subkategori": []
+            },
+            {
+                "nama": "Taurat",
+                "subkategori": []
+            },
+            {
+                "nama": "Zabur",
+                "subkategori": []
+            }
+        ]
+    },
+    {
+        "nama": "Kitab suci",
+        "subkategori": [
+            {
+                "nama": "Al-Qur'an",
+                "subkategori": []
+            },
+            {
+                "nama": "Injil",
+                "subkategori": []
+            },
+            {
+                "nama": "Taurat",
+                "subkategori": []
+            },
+            {
+                "nama": "Zabur",
+                "subkategori": []
+            }
+        ]
+    },
+    {
+        "nama": "Bahasa",
+        "subkategori": [
+            {
+                "nama": "Bahasa Arab",
+                "subkategori": []
+            }
+        ]
+    },
+    {
+        "nama": "Makhluk hidup",
+        "subkategori": [
+            {
+                "nama": "Obyek organik",
+                "subkategori": [
+                    {
+                        "nama": "Organisme biologis",
+                        "subkategori": [
+                            {
+                                "nama": "Tanaman",
+                                "subkategori": [
+                                    {
+                                        "nama": "Mentimun",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Bawang putih",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Kacang adas",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Bawang merah",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Kurma",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Tin",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Zaitun",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Jahe",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Anggur",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Dilemma",
+                                        "subkategori": []
+                                    }
+                                ]
+                            },
+                            {
+                                "nama": "Burung",
+                                "subkategori": [
+                                    {
+                                        "nama": "Hudhud",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Burung Salwa",
+                                        "subkategori": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "nama": "Penyakit",
+                        "subkategori": [
+                            {
+                                "nama": "Kusta",
+                                "subkategori": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nama": "Ciptaan sentinen",
+                "subkategori": []
+            }
+        ]
+    }
+]

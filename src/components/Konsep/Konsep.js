@@ -1,6 +1,6 @@
 import React from 'react'
 import { Form, FormControl, FormGroup, FormLabel, Button, Container } from 'react-bootstrap';
-
+// import data from '../../data/ontologi_konsep.json'
 
 const Konsep = () => {
   return (
@@ -15,13 +15,13 @@ const Konsep = () => {
         <ul>
             <li><a href='#'>artifak</a></li>
             <li><a href='#'>artifak</a></li>
+            {/* <li><a href='#'>artifak</a></li>
             <li><a href='#'>artifak</a></li>
             <li><a href='#'>artifak</a></li>
             <li><a href='#'>artifak</a></li>
             <li><a href='#'>artifak</a></li>
             <li><a href='#'>artifak</a></li>
-            <li><a href='#'>artifak</a></li>
-            <li><a href='#'>artifak</a></li>
+            <li><a href='#'>artifak</a></li> */}
         </ul>
     </Container>
   )
