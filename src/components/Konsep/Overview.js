@@ -4,11 +4,14 @@ import { Form, FormControl, FormGroup, FormLabel, Button, Container } from 'reac
 
 const Overview = () => {
   return (
-    <Container className="mt-3">
-      <h2>Ontology of Quranic Concepts</h2>
-      <p>Ontology Al-Quran menggunakan representasi pengetahuan untuk mendefinisikan konsep-konsep kunci dalam Al-Quran, dan menunjukkan hubungan antara konsep-konsep tersebut menggunakan logika predikat. Konsep-konsep dasar dalam ontologi ini didasarkan pada pengetahuan yang terdapat dalam sumber-sumber tradisional analisis Al-Quran, termasuk hadith Nabi Muhammad, dan tafsir (penafsiran Al-Quran) dari Ibn Kathir. Entitas bernama dalam ayat-ayat, seperti nama-nama orang dan tempat bersejarah yang disebutkan dalam Al-Quran, dihubungkan dengan konsep-konsep dalam ontologi sebagai bagian dari penandaan entitas bernama. Diagram di bawah ini menunjukkan representasi visual dari ontologi tersebut. Grafik ini adalah jaringan dari 300 konsep yang terhubung dengan 350 hubungan.</p>
-    {/* </div> */}
-    </Container>
+    <div className='p-3'>
+      <Container className="mt-3">
+        <h2>E-IndQNER</h2>
+        <p className='text-justify'>E-IndQNER merupakan penelitian yang dilakukan untuk memperluas cakupan informasi pada IndQNER. IndQNER berisi informasi entitas bernama dan label kelas untuk masing-masing entitas tersebut. IndQNER baru mencakup delapan surat pada terjemahan Al-Qur’an berbahasa Indonesia. Melalui E-IndQNER, cakupan informasi tentang entitas bernama dan labelnya diperluas menjadi 114 surat pada terjemahan Al-Qur’an berbahasa Indonesia. Pembangunan E-IndQNER memanfaatkan model bahasa berukuran besar (large language models) serta melibatkan ahli yakni, tim Lajnah Pentashihan Mushaf Al-Qur’an (LPMQ), Kementerian Agama Republik Indonesia. Pendefinisian entitas bernama dilakukan berdasarkan ontologi konsep di terjemahan Al-Qur’an berbahasa Indonesia. Ontologi ini dibangun dengan memanfaatkan ontologi yang telah lebih dahulu didefinisikan dari Al-Qur’an (berbahasa Arab) oleh peneliti dari Leeds University (https://corpus.quran.com/). Pembangunan ontologi konsep pada IndQNER dilakukan berdasarkan bentuk kemunculan entitas bernama pada terjemahan Al-Qur’an berbahasa Indonesia. Tahapan detail dapat dilihat pada artikel terkait (https://link.springer.com/chapter/10.1007/978-3-031-35320-8_12). Pada E-IndQNER, ontologi yang sama digunakan pada tahap awal. Ontologi ini diperluas pada tahap di mana ahli terlibat pada proses verifikasi entitas bernama dan kelasnya.
+        </p>
+        {/* </div> */}
+      </Container>
+    </div>
   )
 }
 

@@ -1,6 +1,7 @@
 import React from 'react'
 import { Form, FormControl, FormGroup, FormLabel, Button, Container } from 'react-bootstrap';
 // import data from '../../data/ontologi_konsep.json'
+import { Link } from 'react-router-dom'
 
 const Konsep = () => {
   return (
@@ -13,13 +14,13 @@ const Konsep = () => {
         <h3>Subkategori</h3>
         <p>Kategori ini memiliki 11 subkategori:</p>
         <ul>
-            <li><a href='/category/Artefak'>Artefak</a></li>
-            <li><a href='/category/Astronomi'>Astronomi</a></li>
-            <li><a href='/category/Peristiwa'>Peristiwa</a></li>
-            <li><a href='/category/Dewa Palsu'>Dewa Palsu</a></li>
-            <li><a href='/category/Kitab Suci'>Kitab Suci</a></li>
-            <li><a href='/category/Bahasa'>Bahasa</a></li>
-            <li><a href='/category/Makhluk Hidup'>Makhluk Hidup</a></li>
+            <li><Link to='/category/Artefak'>Artefak</Link></li>
+            <li><Link to='/category/Astronomi'>Astronomi</Link></li>
+            <li><Link to='/category/Peristiwa'>Peristiwa</Link></li>
+            <li><Link to='/category/Dewa Palsu'>Dewa Palsu</Link></li>
+            <li><Link to='/category/Kitab Suci'>Kitab Suci</Link></li>
+            <li><Link to='/category/Bahasa'>Bahasa</Link></li>
+            <li><Link to='/category/Makhluk Hidup'>Makhluk Hidup</Link></li>
 
             {/* <li><a href='#'>artifak</a></li>
             <li><a href='#'>artifak</a></li>

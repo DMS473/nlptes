@@ -49,14 +49,14 @@ const Home = () => {
             <h2>AIRIS</h2>
           </MenuItem>
           <MenuItem icon={<HomeOutlinedIcon />} component={<Link to="/" />}>Home</MenuItem>
-          <SubMenu icon={<PeopleOutlinedIcon />} component={<Link to="/ontologi" />} label="Ontology of Concept">
-            <MenuItem icon={<PeopleOutlinedIcon />} component={<Link to="/ontologi" />}>Pendahuluan</MenuItem>
-            <MenuItem icon={<PeopleOutlinedIcon />} component={<Link to="/konsep" />}>Peta Konsep</MenuItem>
+          <SubMenu icon={<PeopleOutlinedIcon />} component={<Link to="#" />} label="E-IndQNER">
+            <MenuItem icon={<PeopleOutlinedIcon />} component={<Link to="/ontologi" />}>Gambaran Umum</MenuItem>
+            <MenuItem icon={<PeopleOutlinedIcon />} component={<Link to="/konsep" />}>Ontologi Konsep di Al-Qur’an</MenuItem>
             {/* <MenuItem icon={<PeopleOutlinedIcon />} component={<Link to="#" />}>Index Topik</MenuItem> */}
           </SubMenu>
-          {/* <MenuItem icon={<ContactsOutlinedIcon />} component={<Link to="category" />}>Contacts</MenuItem>
           <MenuItem icon={<ReceiptOutlinedIcon />} component={<Link to="#" />}>Profile</MenuItem>
-          <MenuItem icon={<HelpOutlineOutlinedIcon />} component={<Link to="#" />}>FAQ</MenuItem>
+          <MenuItem icon={<ContactsOutlinedIcon />} component={<Link to="category" />}>Contact</MenuItem>
+          {/* <MenuItem icon={<HelpOutlineOutlinedIcon />} component={<Link to="#" />}>FAQ</MenuItem>
           <MenuItem icon={<CalendarTodayOutlinedIcon />} component={<Link to="#" />}>Calendar</MenuItem> */}
         </Menu>
       </Sidebar>

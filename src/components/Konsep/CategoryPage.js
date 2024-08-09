@@ -30,7 +30,7 @@ const CategoryPage = () => {
   }
 
   return (
-    <div>
+    <div className='p-3'>
       <h1>{category.nama}</h1>
       {category.subkategori.length > 0 ? (
         <div>
