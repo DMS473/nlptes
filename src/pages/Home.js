@@ -52,9 +52,9 @@ const Home = () => {
           <SubMenu icon={<PeopleOutlinedIcon />} component={<Link to="#" />} label="E-IndQNER">
             <MenuItem icon={<PeopleOutlinedIcon />} component={<Link to="/ontologi" />}>Gambaran Umum</MenuItem>
             <MenuItem icon={<PeopleOutlinedIcon />} component={<Link to="/konsep" />}>Ontologi Konsep di Al-Qur’an</MenuItem>
-            {/* <MenuItem icon={<PeopleOutlinedIcon />} component={<Link to="#" />}>Index Topik</MenuItem> */}
+            <MenuItem icon={<PeopleOutlinedIcon />} component={<Link to="/dataset" />}>Dataset</MenuItem>
           </SubMenu>
-          <MenuItem icon={<ReceiptOutlinedIcon />} component={<Link to="#" />}>Profile</MenuItem>
+          <MenuItem icon={<ReceiptOutlinedIcon />} component={<Link to="/profile" />}>Profile</MenuItem>
           <MenuItem icon={<ContactsOutlinedIcon />} component={<Link to="category" />}>Contact</MenuItem>
           {/* <MenuItem icon={<HelpOutlineOutlinedIcon />} component={<Link to="#" />}>FAQ</MenuItem>
           <MenuItem icon={<CalendarTodayOutlinedIcon />} component={<Link to="#" />}>Calendar</MenuItem> */}

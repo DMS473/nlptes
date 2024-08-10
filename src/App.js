@@ -16,6 +16,9 @@ import Konsep from './components/Konsep/Konsep';
 
 import CategoryPage from './components/Konsep/CategoryPage';
 import CategoryList from './components/Konsep/CategoryList';
+import DatasetDescription from './components/Konsep/DatasetDescription';
+
+import Profile from './components/Profile';
 
 
 function App() {
@@ -33,9 +36,10 @@ function App() {
               {/* <Route path="/form" element={<FormComponent />} /> */}
               <Route path="/ontologi" element={<Overview />} />
               <Route path="/konsep" element={<Konsep />} />
+              <Route path="/dataset" element={<DatasetDescription />} />
               <Route path="/category" element={<CategoryList />} />
               <Route path="/category/:categoryName" element={<CategoryPage />} />
-              {/* <Route path="/register" element={<Register />} /> */}
+              <Route path="/profile" element={<Profile />} />
             </Route>
             
             
