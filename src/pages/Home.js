@@ -54,7 +54,7 @@ const Home = () => {
             <MenuItem icon={<PeopleOutlinedIcon />} component={<Link to="/konsep" />}>Ontologi Konsep di Al-Qur’an</MenuItem>
             <MenuItem icon={<PeopleOutlinedIcon />} component={<Link to="/dataset" />}>Dataset</MenuItem>
           </SubMenu>
-          <MenuItem icon={<ReceiptOutlinedIcon />} component={<Link to="/profile" />}>Profile</MenuItem>
+          <MenuItem icon={<ReceiptOutlinedIcon />} component={<Link to="/profile" />}>Tim Peneliti</MenuItem>
           <MenuItem icon={<ContactsOutlinedIcon />} component={<Link to="category" />}>Contact</MenuItem>
           {/* <MenuItem icon={<HelpOutlineOutlinedIcon />} component={<Link to="#" />}>FAQ</MenuItem>
           <MenuItem icon={<CalendarTodayOutlinedIcon />} component={<Link to="#" />}>Calendar</MenuItem> */}

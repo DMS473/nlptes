@@ -124,20 +124,49 @@
         "nama": "Dewa palsu",
         "subkategori": [
             {
-                "nama": "Al-Qur'an",
+                "nama": "Al-'Uzza",
                 "subkategori": []
             },
             {
-                "nama": "Injil",
+                "nama": "Al-Lata",
                 "subkategori": []
             },
             {
-                "nama": "Taurat",
+                "nama": "Wadd",
                 "subkategori": []
             },
             {
-                "nama": "Zabur",
+                "nama": "Suwa",
                 "subkategori": []
+            },
+            {
+                "nama": "Ya'uq",
+                "subkategori": []
+            },
+            {
+                "nama": "Nasr",
+                "subkategori": []
+            },
+            {
+                "nama": "Manata",
+                "subkategori": []
+            },
+            {
+                "nama": "Ba'l",
+                "subkategori": []
+            },
+            {
+                "nama": "Yagus",
+                "subkategori": []
+            },
+            {
+                "nama": "Sesembahan",
+                "subkategori": [
+                    {
+                        "nama": "patung anak sapi",
+                        "subkategori": []
+                    }
+                ]
             }
         ]
     },
@@ -252,7 +281,501 @@
                 ]
             },
             {
-                "nama": "Ciptaan sentinen",
+                "nama": "Ciptaan sentinen: makhluk bergerak dari bumi",
+                "subkategori": [
+                    {
+                        "nama": "Malaikat",
+                        "subkategori": [
+                            {
+                                "nama": "Malaikat maut",
+                                "subkategori": []
+                            },
+                            {
+                                "nama": "Harut",
+                                "subkategori": []
+                            },
+                            {
+                                "nama": "Marut",
+                                "subkategori": []
+                            },
+                            {
+                                "nama": "Kurma",
+                                "subkategori": []
+                            },
+                            {
+                                "nama": "Jibril",
+                                "subkategori": []
+                            },
+                            {
+                                "nama": "Malik",
+                                "subkategori": []
+                            },
+                            {
+                                "nama": "Mikail",
+                                "subkategori": []
+                            }
+                        ]
+                    },
+                    {
+                        "nama": "Anak cucu Adam",
+                        "subkategori": [
+                            {
+                                "nama": "Anak cucu Adam",
+                                "subkategori": []
+                            }
+                        ]
+                    },
+                    {
+                        "nama": "Manusia",
+                        "subkategori": [
+                            {
+                                "nama": "Kaum bersejarah (historic people)",
+                                "subkategori": [
+                                    {
+                                        "nama": "Kaum 'Ad/'Ad",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Orang-orang Ansar",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Orang-orang Arab Badui",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Bani Israil",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Penghuni gua",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Pasukan bergajah",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Orang-orang yang membuat parit",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Penduduk Rass",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Penduduk Aikah",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Ya'juj dan Ma'juj",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Penduduk Madyan",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Penduduk negeri Hijr",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Orang-orang Quraisy",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Bangsa Romawi",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Samud/(kaum) Samud",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Kaum Tubba'",
+                                        "subkategori": []
+                                    }
+                                ]
+                            },
+                            {
+                                "nama": "Manusia bersejarah (historic person)",
+                                "subkategori": [
+                                    {
+                                        "nama": "Habil",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Azar",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Qabil",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Zulkifli",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Zulqarnain",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Haman",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Imran",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Jalut",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Luqman",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Maryam",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Fir'aun",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Qarun",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Samiri",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Talut",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Uzair",
+                                        "subkategori": []
+                                    }
+                                ]
+                            },
+                            {
+                                "nama": "Raja/Ratu",
+                                "subkategori": [
+                                    {
+                                        "nama": "Raja Mesir",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Balqis",
+                                        "subkategori": []
+                                    }
+                                ]
+                            },
+                            {
+                                "nama": "Rasul",
+                                "subkategori": [
+                                    {
+                                        "nama": "Ilyas",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Hud",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Ibrahim",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Ismail",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Isa putra Maryam",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Lut",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Muhammad",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Musa",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Nuh",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Saleh",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Syu'aib",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Yunus",
+                                        "subkategori": []
+                                    }
+                                ]
+                            },
+                            {
+                                "nama": "Nabi",
+                                "subkategori": [
+                                    {
+                                        "nama": "Adam",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Ahmad",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Ayyub",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Daud",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Ilyasa",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Harun",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Idris",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Ishaq",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Israil",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Isa Almasih putra Maryam",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Sulaiman",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Yahya",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Ya'qub",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Yusuf",
+                                        "subkategori": []
+                                    },
+                                    {
+                                        "nama": "Zakaria",
+                                        "subkategori": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nama": "Lokasi",
+        "subkategori": [
+            {
+                "nama": "Lokasi di akhirat",
+                "subkategori": [
+                    {
+                        "nama": "Surga Firdaus",
+                        "subkategori": []
+                    },
+                    {
+                        "nama": "Surga 'Adn",
+                        "subkategori": []
+                    },
+                    {
+                        "nama": "Salsabil",
+                        "subkategori": []
+                    },
+                    {
+                        "nama": "Sidratulmuntaha",
+                        "subkategori": []
+                    },
+                    {
+                        "nama": "Saqar",
+                        "subkategori": []
+                    },
+                    {
+                        "nama": "Sijjin",
+                        "subkategori": []
+                    },
+                    {
+                        "nama": "Pohon zaqum",
+                        "subkategori": []
+                    }
+                ]
+            },
+            {
+                "nama": "Lokasi di dunia",
+                "subkategori": [
+                    {
+                        "nama": "Negeri Babilonia",
+                        "subkategori": []
+                    },
+                    {
+                        "nama": "Badar",
+                        "subkategori": []
+                    },
+                    {
+                        "nama": "Bakkah",
+                        "subkategori": []
+                    },
+                    {
+                        "nama": "Makkah",
+                        "subkategori": []
+                    },
+                    {
+                        "nama": "Hunain",
+                        "subkategori": []
+                    },
+                    {
+                        "nama": "Iram",
+                        "subkategori": []
+                    },
+                    {
+                        "nama": "Madinah",
+                        "subkategori": []
+                    },
+                    {
+                        "nama": "Yasrib",
+                        "subkategori": []
+                    },
+                    {
+                        "nama": "Ahqaf",
+                        "subkategori": []
+                    },
+                    {
+                        "nama": "Mesir",
+                        "subkategori": []
+                    },
+                    {
+                        "nama": "Negeri Saba'",
+                        "subkategori": []
+                    },
+                    {
+                        "nama": "Gunung Judiy",
+                        "subkategori": []
+                    },
+                    {
+                        "nama": "Marwah",
+                        "subkategori": []
+                    },
+                    {
+                        "nama": "Safa",
+                        "subkategori": []
+                    },
+                    {
+                        "nama": "Arafah",
+                        "subkategori": []
+                    },
+                    {
+                        "nama": "Bukit Sinai",
+                        "subkategori": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nama": "Atribut fisik (physical attribute)",
+        "subkategori": [
+            {
+                "nama": "Warna",
+                "subkategori": [
+                    {
+                        "nama": "hijau tua",
+                        "subkategori": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nama": "Agama",
+        "subkategori": [
+            {
+                "nama": "Islam",
+                "subkategori": []
+            },
+            {
+                "nama": "Nasrani",
+                "subkategori": []
+            },
+            {
+                "nama": "Yahudi",
+                "subkategori": []
+            },
+            {
+                "nama": "Majusi",
+                "subkategori": []
+            },
+            {
+                "nama": "Sabiin",
+                "subkategori": []
+            }
+        ]
+    },
+    {
+        "nama": "Makanan",
+        "subkategori": [
+            {
+                "nama": "Manna",
+                "subkategori": []
+            },
+            {
+                "nama": "Salwa",
+                "subkategori": []
+            }
+        ]
+    },
+    {
+        "nama": "Buah-buahan",
+        "subkategori": [
+            {
+                "nama": "Kurma",
+                "subkategori": []
+            },
+            {
+                "nama": "Delima",
+                "subkategori": []
+            }
+        ]
+    },
+    {
+        "nama": "Lauf mahfuzh",
+        "subkategori": [
+            {
+                "nama": "Lauf mahfuzh",
                 "subkategori": []
             }
         ]

@@ -58,36 +58,42 @@ const Profile = () => {
     ];
 
     return (
-        <div className="container">
-            <h2>Dosen</h2>
-            <div className="row">
-                {dosen.map((dosen, index) => (
-                    <div className="col-md-4" key={index}>
-                        <div className="card mb-4">
-                            <img src={dosen.img} className="card-img-top" alt={dosen.name} />
-                            <div className="card-body">
-                                <h5 className="card-title">{dosen.name}</h5>
-                                <p className="card-text">{dosen.description}</p>
+        <div className="p-3">
+            <Container className="mt-3">
+                <h2>Peneliti Utama</h2>
+                <div className="row">
+                    {dosen.map((dosen, index) => (
+                        <div className="col-md-4" key={index}>
+                            <div className="mb-4">
+                                <img src={dosen.img} className="img-fluid rounded-circle" alt={dosen.name}
+                                    style={{ width: '150px', height: '150px', objectFit: 'cover' }}
+                                />
+                                <div className="card-body">
+                                    <h5 className="card-title">{dosen.name}</h5>
+                                    <p className="card-text">{dosen.description}</p>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                ))}
-            </div>
-
-            <h2>Mahasiswa</h2>
-            <div className="row">
-                {mahasiswa.map((mahasiswa, index) => (
-                    <div className="col-md-4" key={index}>
-                        <div className="card mb-4">
-                            <img src={mahasiswa.img} className="card-img-top" alt={mahasiswa.name} />
-                            <div className="card-body">
-                                <h5 className="card-title">{mahasiswa.name}</h5>
-                                <p className="card-text">{mahasiswa.description}</p>
+                    ))}
+                </div>
+                <br></br>
+                <h2>Asisten Peneliti</h2>
+                <div className="row">
+                    {mahasiswa.map((mahasiswa, index) => (
+                        <div className="col-md-4" key={index}>
+                            <div className="mb-4">
+                                <img src={mahasiswa.img} className="img-fluid rounded-circle" alt={mahasiswa.name}
+                                    style={{ width: '150px', height: '150px', objectFit: 'cover' }}
+                                />
+                                <div className="card-body">
+                                    <h5 className="card-title">{mahasiswa.name}</h5>
+                                    <p className="card-text">{mahasiswa.description}</p>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                ))}
-            </div>
+                    ))}
+                </div>
+            </Container>
         </div>
     );
 }
