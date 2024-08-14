@@ -19,6 +19,7 @@ import CategoryList from './components/Konsep/CategoryList';
 import DatasetDescription from './components/Konsep/DatasetDescription';
 
 import Profile from './components/Profile';
+import Kontak from './components/Kontak';
 
 
 function App() {
@@ -40,6 +41,7 @@ function App() {
               <Route path="/category" element={<CategoryList />} />
               <Route path="/category/:categoryName" element={<CategoryPage />} />
               <Route path="/profile" element={<Profile />} />
+              <Route path="/kontak" element={<Kontak />} />
             </Route>
             
             

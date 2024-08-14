@@ -13,27 +13,27 @@ const Profile = () => {
         {
             name: "Asep Fajar Firmansyah, M.T.I.",
             img: fotoAsep,
-            description: "Dosen di bidang Teknologi Informasi dan Komunikasi."
+            description: "Dosen di Program Studi Sistem Informasi"
         },
         {
             name: "Dr. Eva Nugraha, M.Ag.",
             img: fotoEva,
-            description: "Dosen di bidang Teknologi Informasi dan Komunikasi."
+            description: "Dosen di Program Studi Ilmu Al-Qur'an dan Tafsir"
         },
         {
             name: "Kamal Fikry Musa, Lc., M.A",
             img: fotoDaffa,
-            description: "Dosen di bidang Teknologi Informasi dan Komunikasi."
+            description: "Dosen di Program Studi Ilmu Al-Qur'an dan Tafsir"
         },
         {
             name: "Dr. Khodijah Hulliyah",
             img: fotoKhadijah,
-            description: "Dosen di bidang Teknologi Informasi dan Komunikasi."
+            description: "Dosen di Program Studi Teknik Informatika"
         },
         {
             name: "Ria Hari Gusmita, M.Kom",
             img: fotoRia,
-            description: "Dosen di bidang Teknologi Informasi dan Komunikasi."
+            description: "Dosen di Program Studi Teknik Informatika"
         },
         // Tambahkan data lainnya...
     ];
@@ -42,17 +42,17 @@ const Profile = () => {
         {
             name: "Aisha Dian Purinra",
             img: fotoAisha,
-            description: "Mahasiswa jurusan Teknik Informatika."
+            description: "Mahasiswa di Program Studi Teknik Informatika"
         },
         {
             name: "Elisa Bunga Daniar",
             img: fotoElisa,
-            description: "Mahasiswa jurusan Teknik Informatika."
+            description: "Mahasiswa di Program Studi Teknik Informatika"
         },
         {
             name: "Muhammad Daffa Muis",
             img: fotoDaffa,
-            description: "Mahasiswa jurusan Teknik Informatika."
+            description: "Mahasiswa di Program Studi Teknik Informatika"
         },
         // Tambahkan data lainnya...
     ];
@@ -77,7 +77,7 @@ const Profile = () => {
                     ))}
                 </div>
                 <br></br>
-                <h2>Asisten Peneliti</h2>
+                <h2>Asisten Peneliti (Mahasiswa di Program Studi Teknik Informatika)</h2>
                 <div className="row">
                     {mahasiswa.map((mahasiswa, index) => (
                         <div className="col-md-4" key={index}>
@@ -87,7 +87,7 @@ const Profile = () => {
                                 />
                                 <div className="card-body">
                                     <h5 className="card-title">{mahasiswa.name}</h5>
-                                    <p className="card-text">{mahasiswa.description}</p>
+                                    {/* <p className="card-text">{mahasiswa.description}</p> */}
                                 </div>
                             </div>
                         </div>

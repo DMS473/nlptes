@@ -55,7 +55,7 @@ const Home = () => {
             <MenuItem icon={<PeopleOutlinedIcon />} component={<Link to="/dataset" />}>Dataset</MenuItem>
           </SubMenu>
           <MenuItem icon={<ReceiptOutlinedIcon />} component={<Link to="/profile" />}>Tim Peneliti</MenuItem>
-          <MenuItem icon={<ContactsOutlinedIcon />} component={<Link to="category" />}>Contact</MenuItem>
+          <MenuItem icon={<ContactsOutlinedIcon />} component={<Link to="/kontak" />}>Kontak</MenuItem>
           {/* <MenuItem icon={<HelpOutlineOutlinedIcon />} component={<Link to="#" />}>FAQ</MenuItem>
           <MenuItem icon={<CalendarTodayOutlinedIcon />} component={<Link to="#" />}>Calendar</MenuItem> */}
         </Menu>
