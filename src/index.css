@@ -41,6 +41,11 @@ code {
   color: #fff; /* Warna teks putih */
 }
 
+.highlighted-text {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
 .highlight-blue {
   background-color: #1E90FF; /* Warna biru */
   padding: 2px 4px;
