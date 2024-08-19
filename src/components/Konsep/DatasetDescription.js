@@ -2,15 +2,35 @@ import React, { useState, useEffect } from 'react';
 // import sampleDataset from '../../data/sampeDataset.json'
 import { Container } from 'react-bootstrap';
 import textData from '../../data/textData.json'
+import textData2 from '../../data/datasettes2.json'
 
 
 const DatasetDescription = () => {
     // const [data, setData] = useState([]);
+    const [textSegments, setTextSegments] = useState([]);
 
-    // useEffect(() => {
-    //     // Mengambil data dari file JSON
-    //     setData(sampleDataset);
-    // }, []);
+    useEffect(() => {
+        // Memecah data teks menjadi segmen-segmen terpisah
+        const segments = textData2.text.flatMap(sentence => sentence.split(' '));
+        setTextSegments(segments);
+    }, []);
+
+    const getTagColor = (tag) => {
+        switch(tag) {
+          case 'Allah':
+            return '#FFA500'; // Oranye
+          case 'Messenger':
+            return '#007BFF'; // Biru
+          case 'HolyBook':
+            return '#228B22'; // Hijau
+          case 'Person':
+            return '#800080'; // Ungu
+          case 'AstronomicalBody':
+            return '#FF4500'; // Oranye-merah
+          default:
+            return '#000000'; // Hitam
+        }
+      };
 
 
     return (
@@ -18,7 +38,24 @@ const DatasetDescription = () => {
             <Container>
                 <h1>Sample Dataset</h1>
                 <p>Berikut ini adalah tampilan hasil pelabelan pada E-IndQNER.</p>
-                <div className="dataset-text">
+
+                {/* tes3 */}
+                <div style={{ padding: '20px', lineHeight: '1.6' }}>
+                    {textSegments.map((segment, index) => {
+                        const [word, tag] = segment.split('/');
+                        const tagColor = getTagColor(tag);
+
+                        return (
+                            <span key={index} style={{ color: tagColor, fontWeight: tag ? 'bold' : 'normal' }}>
+                                {word}{' '}
+                            </span>
+                        );
+                    })}
+                </div>
+
+
+                {/* tes2 */}
+                {/* <div className="dataset-text">
                     {textData.map((item, index) => (
                         <span
                             key={index}
@@ -29,7 +66,9 @@ const DatasetDescription = () => {
                             {item.text}{" "}
                         </span>
                     ))}
-                </div>
+                </div> */}
+
+                {/* tes1 */}
                 {/* <ul>
                 {data.map((item, index) => (
                     <li key={index}>{item.sentence}</li>
