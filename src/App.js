@@ -10,7 +10,6 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Home from './pages/Home';
 import Sidebar2 from '../src/components/Sidebar2'
 import Welcome from './components/Welcome';
-import FormComponent from './components/FormComponents';
 import Overview from './components/Konsep/Overview';
 import Konsep from './components/Konsep/Konsep';
 

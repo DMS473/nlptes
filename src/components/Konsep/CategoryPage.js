@@ -2,6 +2,9 @@ import React from 'react';
 import { useParams } from 'react-router-dom';
 import { Link } from 'react-router-dom'
 import categories from '../../data/ontologi_konsep.json';
+import tes2 from '../../data/images/ontologi/masjid.png';
+import CategoryList2 from './CategoryList2';
+import HierarchyNavigation from './HierarcyNavigation';
 
 const CategoryPage = () => {
   const { categoryName } = useParams();
@@ -22,6 +25,21 @@ const CategoryPage = () => {
     return null;
   };
 
+  function findCategoryPath(data, targetCategory) {
+    for (let item of data) {
+        if (item.nama === targetCategory) {
+            return [item];
+        }
+        if (item.subkategori.length > 0) {
+            const path = findCategoryPath(item.subkategori, targetCategory);
+            if (path.length) {
+                return [item, ...path];
+            }
+        }
+    }
+    return [];
+}
+
   // Cari kategori berdasarkan nama
   const category = findCategory(categories, categoryName);
 
@@ -40,9 +58,24 @@ const CategoryPage = () => {
               <li key={index}><Link to={`/category/${sub.nama}`}>{sub.nama}</Link></li>
             ))}
           </ul>
+          <p>
+          {process.env.PUBLIC_URL}
+          </p>
+          {category.imageSrc && (
+                <img src={process.env.PUBLIC_URL +category.imageSrc} alt={process.env.PUBLIC_URL +category.imageSrc} />
+            )}
+          {/* <img src={`../../data/images/ontologi/masjid.png`} alt="Responsive"/> */}
+          {/* <CategoryList2 categories={categories} currentCategoryName={category.name}/> */}
+          <HierarchyNavigation data={categories} currentCategory={category.nama} />
         </div>
       ) : (
-        <p>Kategori ini tidak memiliki subkategori lebih lanjut.</p>
+        <div>
+          <p>Kategori ini tidak memiliki subkategori lebih lanjut.</p>
+          {category.imageSrc && (
+                <img src={process.env.PUBLIC_URL +category.imageSrc} alt={process.env.PUBLIC_URL +category.imageSrc} />
+            )}
+            <HierarchyNavigation data={categories} currentCategory={category.nama} />
+        </div>
       )}
     </div>
   );

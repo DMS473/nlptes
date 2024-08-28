@@ -1,23 +1,29 @@
 [
     {
         "nama": "Artefak",
+        "imageSrc": "/images/ontologi/masjid.png",
         "subkategori": [
             {
                 "nama": "Tempat ibadah",
+                "imageSrc": "/images/ontologi/masjid.png",
                 "subkategori": [
                     {
                         "nama": "Mesjid",
+                        "imageSrc": "/images/ontologi/masjid.png",
                         "subkategori": [
                             {
                                 "nama": "Ka'bah",
+                                "imageSrc": "/images/ontologi/kaaba.png",
                                 "subkategori": []
                             },
                             {
                                 "nama": "Masjidilaqsa",
+                                "imageSrc": "/images/ontologi/masjidilaqsa.png",
                                 "subkategori": []
                             },
                             {
                                 "nama": "Masjidilharam",
+                                "imageSrc": "/images/ontologi/masjidilharam.png",
                                 "subkategori": []
                             }
                         ]
@@ -775,7 +781,7 @@
         "nama": "Lauf mahfuzh",
         "subkategori": [
             {
-                "nama": "Lauf mahfuzh",
+                "nama": "Lauf-mahfuzh",
                 "subkategori": []
             }
         ]
