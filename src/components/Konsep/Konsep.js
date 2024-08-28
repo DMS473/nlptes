@@ -8,8 +8,9 @@ const Konsep = () => {
   return (
     <div className='p-3'>
     <Container className="mt-3">
+      <p>Pendefinisian entitas bernama dan kelas terkait pada teks dilakukan melalui pembangunan ontologi konsep di Al-Qur'an. Ontologi yang dimaksud berasal dari ontologi yang dikembangkan pada IndQNER, lalu dikembangkan berdasarkan temuan yang diperoleh pada tahap verifikasi oleh ahli di bidang Al-Qur'an dan tafsir. Ahli yang dimaksud adalah tim dari Lajnah Pentashihan Mushaf Al-Qur'an (LPMQ), Kementerian Agama Republik Indonesia. Pada IndQNER, kelas dan entitas bernama terkait awalnya didefinisikan dengan cara menganalisis ontologi konsep Al-Qur'an yang telah dibangun oleh peneliti di Leeds University.</p>
       <h2>Konsep</h2>
-      <p>Konsep adalah nama entitas akar dalam ontologi Al-Quran. Semua konsep dan subkategori lainnya dalam hierarki ontologi diorganisasikan di bawah konsep akar ini.</p>
+      <p>Pendefinisian entitas bernama dan kelas terkait pada teks dilakukan melalui pembangunan ontologi konsep di Al-Qur'an. Ontologi yang dimaksud berasal dari ontologi yang dikembangkan pada IndQNER, lalu dikembangkan berdasarkan temuan yang diperoleh pada tahap verifikasi oleh ahli di bidang Al-Qur'an dan tafsir. Ahli yang dimaksud adalah tim dari Lajnah Pentashihan Mushaf Al-Qur'an (LPMQ), Kementerian Agama Republik Indonesia. Pada IndQNER, kelas dan entitas bernama terkait awalnya didefinisikan dengan cara menganalisis ontologi konsep Al-Qur'an yang telah dibangun oleh peneliti di Leeds University. Terdapat 24 kelas entitas bernama yang digunakan, yakni sebagai berikut:</p>
       {/* </div> */}
 
       <br />
