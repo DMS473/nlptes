@@ -14,6 +14,12 @@ const HierarchyNavigation = ({ data, currentCategory }) => {
                     return [item, ...path];
                 }
             }
+            if (item.related_konsep.length > 0) {
+                const path = findCategoryPath(item.related_konsep, targetCategory);
+                if (path.length) {
+                    return [item, ...path];
+                }
+            }
         }
         return [];
     }

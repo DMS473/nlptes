@@ -21,6 +21,12 @@ const CategoryPage = () => {
           return found;
         }
       }
+      if (category.related_konsep.length > 0) {
+        const found = findCategory(category.related_konsep, name);
+        if (found) {
+          return found;
+        }
+      }
     }
     return null;
   };
@@ -50,8 +56,12 @@ const CategoryPage = () => {
   return (
     <div className='p-3'>
       <h1>{category.nama}</h1>
+      <br></br>
+      <HierarchyNavigation data={categories} currentCategory={category.nama} />
+      <br></br>
       {category.subkategori.length > 0 ? (
         <div>
+          <h3>Subkategori</h3>
           <p>Kategori ini memiliki {category.subkategori.length} subkategori:</p>
           <ul>
             {category.subkategori.map((sub, index) => (
@@ -66,7 +76,7 @@ const CategoryPage = () => {
             )}
           {/* <img src={`../../data/images/ontologi/masjid.png`} alt="Responsive"/> */}
           {/* <CategoryList2 categories={categories} currentCategoryName={category.name}/> */}
-          <HierarchyNavigation data={categories} currentCategory={category.nama} />
+          {/* <HierarchyNavigation data={categories} currentCategory={category.nama} /> */}
         </div>
       ) : (
         <div>
@@ -74,8 +84,22 @@ const CategoryPage = () => {
           {category.imageSrc && (
                 <img src={process.env.PUBLIC_URL +category.imageSrc} alt={process.env.PUBLIC_URL +category.imageSrc} />
             )}
-            <HierarchyNavigation data={categories} currentCategory={category.nama} />
+            
         </div>
+      )}
+      {category.related_konsep.length > 0 ? (
+        // <p>ada</p>
+        <div>
+          <br></br>
+          <h3>Related Konsep</h3>
+          <ul>
+            {category.related_konsep.map((sub, index) => (
+              <li key={index}><Link to={`/category/${sub.nama}`}>{sub.nama}</Link></li>
+            ))}
+          </ul>
+        </div>
+      ) : (
+        <p>ga ada</p>
       )}
     </div>
   );

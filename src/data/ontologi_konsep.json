@@ -2,28 +2,34 @@
     {
         "nama": "Artefak",
         "imageSrc": "/images/ontologi/masjid.png",
+        "related_konsep": [],
         "subkategori": [
             {
                 "nama": "Tempat ibadah",
                 "imageSrc": "/images/ontologi/masjid.png",
+                "related_konsep": [],
                 "subkategori": [
                     {
                         "nama": "Mesjid",
                         "imageSrc": "/images/ontologi/masjid.png",
+                        "related_konsep": [],
                         "subkategori": [
                             {
                                 "nama": "Ka'bah",
                                 "imageSrc": "/images/ontologi/kaaba.png",
+                                "related_konsep": [],
                                 "subkategori": []
                             },
                             {
                                 "nama": "Masjidilaqsa",
                                 "imageSrc": "/images/ontologi/masjidilaqsa.png",
+                                "related_konsep": [],
                                 "subkategori": []
                             },
                             {
                                 "nama": "Masjidilharam",
                                 "imageSrc": "/images/ontologi/masjidilharam.png",
+                                "related_konsep": [],
                                 "subkategori": []
                             }
                         ]
@@ -32,94 +38,127 @@
             },
             {
                 "nama": "Persenjataan",
+                "related_konsep": [],
                 "subkategori": []
             }
         ]
     },
     {
         "nama": "Astronomi",
+        "related_konsep": [],
         "subkategori": [
             {
                 "nama": "Bintang Syi'ra",
+                "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Bumi",
+                "imageSrc": "/images/ontologi/bumi.png",
+                "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Bulan",
+                "imageSrc": "/images/ontologi/bulan.png",
+                "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Matahari",
+                "imageSrc": "/images/ontologi/matahari.png",
+                "related_konsep": [],
                 "subkategori": []
             }
         ]
     },
     {
         "nama": "Peristiwa",
+        "related_konsep": [],
         "subkategori": [
             {
                 "nama": "Peristiwa setelah kiamat",
+                "related_konsep": [],
                 "subkategori": [
                     {
                         "nama": "Hari kiamat",
+                        "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Hari akhir",
+                        "imageSrc": "/images/ontologi/hari-akhir.png",
+                        "related_konsep": [],
                         "subkategori": []
                     }
                 ]
             },
             {
                 "nama": "Peristiwa rutin",
+                "related_konsep": [],
                 "subkategori": [
                     {
                         "nama": "Haji",
+                        "imageSrc": "/images/ontologi/haji.png",
+                        "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Umrah",
+                        "imageSrc": "/images/ontologi/umroh.png",
+                        "related_konsep": [],
                         "subkategori": []
                     },
                     {
-                        "nama": "Jum'at/hari Juma'at",
+                        "nama": "Jum'at",
+                        "imageSrc": "/images/ontologi/jumat.png",
+                        "related_konsep": [],
                         "subkategori": []
                     },
                     {
-                        "nama": "Bulan Ramadan/Ramadan",
+                        "nama": "Ramadan",
+                        "imageSrc": "/images/ontologi/ramadhan.png",
+                        "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Hari sabat",
+                        "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Lailatulqadar",
+                        "related_konsep": [],
                         "subkategori": []
                     }
                 ]
             },
             {
                 "nama": "Peristiwa bersejarah",
+                "related_konsep": [],
                 "subkategori": [
                     {
                         "nama": "Jahiliah",
+                        "imageSrc": "/images/ontologi/jahiliyah.png",
+                        "related_konsep": [],
                         "subkategori": []
                     }
                 ]
             },
             {
                 "nama": "Peristiwa konkrit",
+                "related_konsep": [],
                 "subkategori": [
                     {
                         "nama": "subuh",
+                        "imageSrc": "/images/ontologi/subuh.png",
+                        "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "fajr",
+                        "imageSrc": "/images/ontologi/subuh.png",
+                        "related_konsep": [],
                         "subkategori": []
                     }
                 ]
@@ -128,48 +167,61 @@
     },
     {
         "nama": "Dewa palsu",
-        "subkategori": [
+        "related_konsep": [
             {
                 "nama": "Al-'Uzza",
+                "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Al-Lata",
+                "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Wadd",
+                "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Suwa",
+                "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Ya'uq",
+                "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Nasr",
+                "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Manata",
+                "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Ba'l",
+                "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Yagus",
+                "related_konsep": [],
                 "subkategori": []
-            },
+            }
+        ],
+        "subkategori": [
             {
                 "nama": "Sesembahan",
+                "related_konsep": [],
                 "subkategori": [
                     {
                         "nama": "patung anak sapi",
+                        "related_konsep": [],
                         "subkategori": []
                     }
                 ]
@@ -178,97 +230,121 @@
     },
     {
         "nama": "Kitab suci",
+        "related_konsep": [],
         "subkategori": [
             {
                 "nama": "Al-Qur'an",
+                "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Injil",
+                "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Taurat",
+                "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Zabur",
+                "related_konsep": [],
                 "subkategori": []
             }
         ]
     },
     {
         "nama": "Bahasa",
+        "related_konsep": [],
         "subkategori": [
             {
                 "nama": "Bahasa Arab",
+                "related_konsep": [],
                 "subkategori": []
             }
         ]
     },
     {
         "nama": "Makhluk hidup",
+        "related_konsep": [],
         "subkategori": [
             {
                 "nama": "Obyek organik",
+                "related_konsep": [],
                 "subkategori": [
                     {
                         "nama": "Organisme biologis",
+                        "related_konsep": [],
                         "subkategori": [
                             {
                                 "nama": "Tanaman",
+                                "related_konsep": [],
                                 "subkategori": [
                                     {
                                         "nama": "Mentimun",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Bawang putih",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Kacang adas",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Bawang merah",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Kurma",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Tin",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Zaitun",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Jahe",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Anggur",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Dilemma",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     }
                                 ]
                             },
                             {
                                 "nama": "Burung",
+                                "related_konsep": [],
                                 "subkategori": [
                                     {
                                         "nama": "Hudhud",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Burung Salwa",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     }
                                 ]
@@ -277,9 +353,11 @@
                     },
                     {
                         "nama": "Penyakit",
+                        "related_konsep": [],
                         "subkategori": [
                             {
                                 "nama": "Kusta",
+                                "related_konsep": [],
                                 "subkategori": []
                             }
                         ]
@@ -288,313 +366,390 @@
             },
             {
                 "nama": "Ciptaan sentinen: makhluk bergerak dari bumi",
+                "related_konsep": [],
                 "subkategori": [
                     {
                         "nama": "Malaikat",
+                        "related_konsep": [],
                         "subkategori": [
                             {
                                 "nama": "Malaikat maut",
+                                "related_konsep": [],
                                 "subkategori": []
                             },
                             {
                                 "nama": "Harut",
+                                "related_konsep": [],
                                 "subkategori": []
                             },
                             {
                                 "nama": "Marut",
+                                "related_konsep": [],
                                 "subkategori": []
                             },
                             {
                                 "nama": "Kurma",
+                                "related_konsep": [],
                                 "subkategori": []
                             },
                             {
                                 "nama": "Jibril",
+                                "related_konsep": [],
                                 "subkategori": []
                             },
                             {
                                 "nama": "Malik",
+                                "related_konsep": [],
                                 "subkategori": []
                             },
                             {
                                 "nama": "Mikail",
+                                "related_konsep": [],
                                 "subkategori": []
                             }
                         ]
                     },
                     {
                         "nama": "Anak cucu Adam",
+                        "related_konsep": [],
                         "subkategori": [
                             {
                                 "nama": "Anak cucu Adam",
+                                "related_konsep": [],
                                 "subkategori": []
                             }
                         ]
                     },
                     {
                         "nama": "Manusia",
+                        "related_konsep": [],
                         "subkategori": [
                             {
                                 "nama": "Kaum bersejarah (historic people)",
+                                "related_konsep": [],
                                 "subkategori": [
                                     {
                                         "nama": "Kaum 'Ad/'Ad",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Orang-orang Ansar",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Orang-orang Arab Badui",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Bani Israil",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Penghuni gua",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Pasukan bergajah",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Orang-orang yang membuat parit",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Penduduk Rass",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Penduduk Aikah",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Ya'juj dan Ma'juj",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Penduduk Madyan",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Penduduk negeri Hijr",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Orang-orang Quraisy",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Bangsa Romawi",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Samud/(kaum) Samud",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Kaum Tubba'",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     }
                                 ]
                             },
                             {
                                 "nama": "Manusia bersejarah (historic person)",
+                                "related_konsep": [],
                                 "subkategori": [
                                     {
                                         "nama": "Habil",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Azar",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Qabil",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Zulkifli",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Zulqarnain",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Haman",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Imran",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Jalut",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Luqman",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Maryam",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Fir'aun",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Qarun",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Samiri",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Talut",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Uzair",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     }
                                 ]
                             },
                             {
                                 "nama": "Raja/Ratu",
+                                "related_konsep": [],
                                 "subkategori": [
                                     {
                                         "nama": "Raja Mesir",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Balqis",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     }
                                 ]
                             },
                             {
                                 "nama": "Rasul",
+                                "related_konsep": [],
                                 "subkategori": [
                                     {
                                         "nama": "Ilyas",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Hud",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Ibrahim",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Ismail",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Isa putra Maryam",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Lut",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Muhammad",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Musa",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Nuh",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Saleh",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Syu'aib",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Yunus",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     }
                                 ]
                             },
                             {
                                 "nama": "Nabi",
+                                "related_konsep": [],
                                 "subkategori": [
                                     {
                                         "nama": "Adam",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Ahmad",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Ayyub",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Daud",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Ilyasa",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Harun",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Idris",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Ishaq",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Israil",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Isa Almasih putra Maryam",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Sulaiman",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Yahya",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Ya'qub",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Yusuf",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Zakaria",
+                                        "related_konsep": [],
                                         "subkategori": []
                                     }
                                 ]
@@ -607,105 +762,131 @@
     },
     {
         "nama": "Lokasi",
+        "related_konsep": [],
         "subkategori": [
             {
                 "nama": "Lokasi di akhirat",
+                "related_konsep": [],
                 "subkategori": [
                     {
                         "nama": "Surga Firdaus",
+                        "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Surga 'Adn",
+                        "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Salsabil",
+                        "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Sidratulmuntaha",
+                        "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Saqar",
+                        "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Sijjin",
+                        "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Pohon zaqum",
+                        "related_konsep": [],
                         "subkategori": []
                     }
                 ]
             },
             {
                 "nama": "Lokasi di dunia",
+                "related_konsep": [],
                 "subkategori": [
                     {
                         "nama": "Negeri Babilonia",
+                        "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Badar",
+                        "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Bakkah",
+                        "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Makkah",
+                        "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Hunain",
+                        "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Iram",
+                        "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Madinah",
+                        "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Yasrib",
+                        "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Ahqaf",
+                        "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Mesir",
+                        "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Negeri Saba'",
+                        "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Gunung Judiy",
+                        "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Marwah",
+                        "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Safa",
+                        "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Arafah",
+                        "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Bukit Sinai",
+                        "related_konsep": [],
                         "subkategori": []
                     }
                 ]
@@ -714,12 +895,15 @@
     },
     {
         "nama": "Atribut fisik (physical attribute)",
+        "related_konsep": [],
         "subkategori": [
             {
                 "nama": "Warna",
+                "related_konsep": [],
                 "subkategori": [
                     {
                         "nama": "hijau tua",
+                        "related_konsep": [],
                         "subkategori": []
                     }
                 ]
@@ -728,60 +912,74 @@
     },
     {
         "nama": "Agama",
+        "related_konsep": [],
         "subkategori": [
             {
                 "nama": "Islam",
+                "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Nasrani",
+                "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Yahudi",
+                "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Majusi",
+                "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Sabiin",
+                "related_konsep": [],
                 "subkategori": []
             }
         ]
     },
     {
         "nama": "Makanan",
+        "related_konsep": [],
         "subkategori": [
             {
                 "nama": "Manna",
+                "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Salwa",
+                "related_konsep": [],
                 "subkategori": []
             }
         ]
     },
     {
         "nama": "Buah-buahan",
+        "related_konsep": [],
         "subkategori": [
             {
                 "nama": "Kurma",
+                "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Delima",
+                "related_konsep": [],
                 "subkategori": []
             }
         ]
     },
     {
         "nama": "Lauf mahfuzh",
+        "related_konsep": [],
         "subkategori": [
             {
                 "nama": "Lauf-mahfuzh",
+                "related_konsep": [],
                 "subkategori": []
             }
         ]
