@@ -1,38 +1,38 @@
 [
     {
         "nama": "Artefak",
-        "imageSrc": "/images/ontologi/masjid.png",
         "related_konsep": [],
         "subkategori": [
             {
                 "nama": "Tempat ibadah",
-                "imageSrc": "/images/ontologi/masjid.png",
                 "related_konsep": [],
                 "subkategori": [
                     {
                         "nama": "Mesjid",
-                        "imageSrc": "/images/ontologi/masjid.png",
-                        "related_konsep": [],
-                        "subkategori": [
+                        "related_konsep": [
                             {
                                 "nama": "Ka'bah",
                                 "imageSrc": "/images/ontologi/kaaba.png",
+                                "terjemahan": "Allah telah menjadikan <strong>Ka‘bah</strong>, rumah suci itu sebagai pusat kegiatan (peribadatan dan urusan dunia) bagi manusia, dan (demikian pula) bulan haram, hadyu (hewan kurban) dan qalā’id (hewan kurban yang diberi kalung). Yang demikian itu agar kamu mengetahui bahwa sesungguhnya Allah mengetahui apa pun yang ada di langit dan apa pun yang ada di bumi dan bahwa Allah Maha Mengetahui segala sesuatu.",
                                 "related_konsep": [],
                                 "subkategori": []
                             },
                             {
                                 "nama": "Masjidilaqsa",
                                 "imageSrc": "/images/ontologi/masjidilaqsa.png",
+                                "terjemahan": "Maha Suci (Allah) yang telah memperjalankan hamba-Nya (Nabi Muhammad) pada malam hari dari Masjidilharam ke <strong>Masjidilaqsa</strong> yang telah Kami berkahi sekelilingnya agar Kami perlihatkan kepadanya sebagian tanda-tanda (kebesaran) Kami. Sesungguhnya Dia Maha Mendengar lagi Maha Melihat.",
                                 "related_konsep": [],
                                 "subkategori": []
                             },
                             {
                                 "nama": "Masjidilharam",
                                 "imageSrc": "/images/ontologi/masjidilharam.png",
+                                "terjemahan": "Dari mana pun engkau (Nabi Muhammad) keluar, hadapkanlah wajahmu ke arah <strong>Masjidilharam</strong>. Sesungguhnya (hal) itu benar-benar (ketentuan) yang hak (pasti, yang tidak diragukan lagi) dari Tuhanmu. Allah tidak lengah terhadap apa yang kamu kerjakan.",
                                 "related_konsep": [],
                                 "subkategori": []
                             }
-                        ]
+                        ],
+                        "subkategori": []
                     }
                 ]
             },
@@ -45,8 +45,7 @@
     },
     {
         "nama": "Astronomi",
-        "related_konsep": [],
-        "subkategori": [
+        "related_konsep": [
             {
                 "nama": "Bintang Syi'ra",
                 "related_konsep": [],
@@ -55,22 +54,26 @@
             {
                 "nama": "Bumi",
                 "imageSrc": "/images/ontologi/bumi.png",
+                "terjemahan": "Sesungguhnya Tuhanmu adalah Allah yang telah menciptakan langit dan <strong>bumi</strong> dalam enam masa, kemudian Dia bersemayam di atas ʻArasy. Dia menutupkan malam pada siang yang mengikutinya dengan cepat. (Dia ciptakan) matahari, bulan, dan bintang-bintang tunduk pada perintah-Nya. Ingatlah! Hanya milik-Nyalah segala penciptaan dan urusan. Maha Berlimpah anugerah Allah, Tuhan semesta alam.",
                 "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Bulan",
                 "imageSrc": "/images/ontologi/bulan.png",
+                "terjemahan": "Di sana Dia menjadikan <strong>bulan</strong> bercahaya dan matahari sebagai pelita (yang cemerlang).",
                 "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Matahari",
                 "imageSrc": "/images/ontologi/matahari.png",
+                "terjemahan": "Di sana Dia menjadikan bulan bercahaya dan <strong>matahari</strong> sebagai pelita (yang cemerlang).",
                 "related_konsep": [],
                 "subkategori": []
             }
-        ]
+        ],
+        "subkategori": []
     },
     {
         "nama": "Peristiwa",
