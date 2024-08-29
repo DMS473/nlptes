@@ -111,11 +111,12 @@ const CategoryPage = () => {
         </div>
       )}
       {category.terjemahan && (
-        <div className='container'>
+        <div className=' w-75'>
+          <div className='w-75'>
           {/* <p>{category.terjemahan}</p> */}
           {/* <TranslationText translation={translation} wordToHighlight={wordToHighlight} /> */}
           <TranslationText translation={category.terjemahan} />
-
+          </div>
         </div>
       )}
 

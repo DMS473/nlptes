@@ -316,7 +316,7 @@
                 "nama": "Yagus",
                 "imageSrc": "/images/ontologi/wadd.png",
                 "terjemahan": "Mereka berkata, ‘Jangan sekali-kali kamu meninggalkan tuhan-tuhanmu dan jangan pula sekali-kali kamu meninggalkan Wadd, Suwā‘, <strong>Yagūṡ</strong>, Ya‘ūq, dan Nasr.’",
-                "surat": "Nuh'",
+                "surat": "Nuh",
                 "no_surat": "71",
                 "ayat": "23",
                 "related_konsep": [],
@@ -348,14 +348,19 @@
         "subkategori": [
             {
                 "nama": "Al-Qur'an",
+                "imageSrc": "/images/ontologi/quran.png",
+                "terjemahan": "Sesungguhnya Kami menurunkannya (Kitab Suci) berupa <strong>Al-Qur’an</strong> berbahasa Arab agar kamu mengerti.",
+                "surat": "Yusuf",
+                "no_surat": "12",
+                "ayat": "2",
                 "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Injil",
                 "imageSrc": "/images/ontologi/injil.png",
-                "terjemahan": "Mereka berkata, ‘Jangan sekali-kali kamu meninggalkan tuhan-tuhanmu dan jangan pula sekali-kali kamu meninggalkan Wadd, Suwā‘, <strong>Yagūṡ</strong>, Ya‘ūq, dan Nasr.’",
-                "surat": "Nuh'",
+                "terjemahan": "Dia menurunkan kepadamu (Nabi Muhammad) Kitab (Al-Qur’an) dengan hak, membenarkan (kitab-kitab) sebelumnya, serta telah menurunkan Taurat dan <strong>Injil</strong>",
+                "surat": "Ali 'Imran",
                 "no_surat": "3",
                 "ayat": "3",
                 "related_konsep": [],
@@ -363,11 +368,21 @@
             },
             {
                 "nama": "Taurat",
+                "imageSrc": "/images/ontologi/taurat.png",
+                "terjemahan": "Dia menurunkan kepadamu (Nabi Muhammad) Kitab (Al-Qur’an) dengan hak, membenarkan (kitab-kitab) sebelumnya, serta telah menurunkan <strong>Taurat</strong> dan Injil",
+                "surat": "Ali 'Imran",
+                "no_surat": "3",
+                "ayat": "3",
                 "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Zabur",
+                "imageSrc": "/images/ontologi/zabur.png",
+                "terjemahan": "Sesungguhnya Kami telah mewahyukan kepadamu (Nabi Muhammad) sebagaimana Kami telah mewahyukan kepada Nuh dan nabi-nabi setelahnya. Kami telah mewahyukan pula kepada Ibrahim, Ismail, Ishaq, Ya‘qub dan keturunan(-nya), Isa, Ayyub, Yunus, Harun, dan Sulaiman. Kami telah memberikan (Kitab) <strong>Zabur</strong> kepada Daud.",
+                "surat": "An-Nisa",
+                "no_surat": "4",
+                "ayat": "163",
                 "related_konsep": [],
                 "subkategori": []
             }
@@ -379,6 +394,11 @@
         "subkategori": [
             {
                 "nama": "Bahasa Arab",
+                "imageSrc": "/images/ontologi/quran.png",
+                "terjemahan": "Sesungguhnya Kami menurunkannya (Kitab Suci) berupa Al-Qur’an <strong>berbahasa Arab</strong> agar kamu mengerti.",
+                "surat": "Yusuf",
+                "no_surat": "12",
+                "ayat": "2",
                 "related_konsep": [],
                 "subkategori": []
             }
