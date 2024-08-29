@@ -106,7 +106,7 @@ const CategoryPage = () => {
       )}
       {category.imageSrc && (
         <div>
-          <p>Kata <strong>{category.nama}</strong> terdapat di surat {category.surat} ayat ke {category.ayat}</p>
+          <p>Kata <strong>{category.nama}</strong> terdapat di surat {category.surat} ({category.no_surat}) ayat ke ({category.no_surat}:{category.ayat})</p>
           <img src={process.env.PUBLIC_URL + category.imageSrc} alt={process.env.PUBLIC_URL + category.imageSrc} className='img-fluid' />
         </div>
       )}

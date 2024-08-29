@@ -107,10 +107,9 @@ const DatasetDescription = () => {
                             overlay={(props) => renderTooltip(props, "Allah")}
                         >
                             <span className="highlighted-text" style={{ color: "#FFA500" }}>
-                                Allah
+                                Allah 
                             </span>
-                        </OverlayTrigger>
-                        telah mengunci hati dan pendengaran mereka .
+                        </OverlayTrigger> telah mengunci hati dan pendengaran mereka .
                     </p>
                     <p>
                         Pada penglihatan mereka ada penutup , dan bagi mereka azab yang sangat berat .

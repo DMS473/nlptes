@@ -14,6 +14,9 @@
                                 "nama": "Ka'bah",
                                 "imageSrc": "/images/ontologi/kaaba.png",
                                 "terjemahan": "Allah telah menjadikan <strong>Ka‘bah</strong>, rumah suci itu sebagai pusat kegiatan (peribadatan dan urusan dunia) bagi manusia, dan (demikian pula) bulan haram, hadyu (hewan kurban) dan qalā’id (hewan kurban yang diberi kalung). Yang demikian itu agar kamu mengetahui bahwa sesungguhnya Allah mengetahui apa pun yang ada di langit dan apa pun yang ada di bumi dan bahwa Allah Maha Mengetahui segala sesuatu.",
+                                "surat": "Al-Ma'idah",
+                                "no_surat": "5",
+                                "ayat": "97",
                                 "related_konsep": [],
                                 "subkategori": []
                             },
@@ -21,6 +24,9 @@
                                 "nama": "Masjidilaqsa",
                                 "imageSrc": "/images/ontologi/masjidilaqsa.png",
                                 "terjemahan": "Maha Suci (Allah) yang telah memperjalankan hamba-Nya (Nabi Muhammad) pada malam hari dari Masjidilharam ke <strong>Masjidilaqsa</strong> yang telah Kami berkahi sekelilingnya agar Kami perlihatkan kepadanya sebagian tanda-tanda (kebesaran) Kami. Sesungguhnya Dia Maha Mendengar lagi Maha Melihat.",
+                                "surat": "Al-Isra'",
+                                "no_surat": "17",
+                                "ayat": "1",
                                 "related_konsep": [],
                                 "subkategori": []
                             },
@@ -28,6 +34,9 @@
                                 "nama": "Masjidilharam",
                                 "imageSrc": "/images/ontologi/masjidilharam.png",
                                 "terjemahan": "Dari mana pun engkau (Nabi Muhammad) keluar, hadapkanlah wajahmu ke arah <strong>Masjidilharam</strong>. Sesungguhnya (hal) itu benar-benar (ketentuan) yang hak (pasti, yang tidak diragukan lagi) dari Tuhanmu. Allah tidak lengah terhadap apa yang kamu kerjakan.",
+                                "surat": "Al-Baqarah",
+                                "no_surat": "2",
+                                "ayat": "149",
                                 "related_konsep": [],
                                 "subkategori": []
                             }
@@ -55,6 +64,9 @@
                 "nama": "Bumi",
                 "imageSrc": "/images/ontologi/bumi.png",
                 "terjemahan": "Sesungguhnya Tuhanmu adalah Allah yang telah menciptakan langit dan <strong>bumi</strong> dalam enam masa, kemudian Dia bersemayam di atas ʻArasy. Dia menutupkan malam pada siang yang mengikutinya dengan cepat. (Dia ciptakan) matahari, bulan, dan bintang-bintang tunduk pada perintah-Nya. Ingatlah! Hanya milik-Nyalah segala penciptaan dan urusan. Maha Berlimpah anugerah Allah, Tuhan semesta alam.",
+                "surat": "Al-A'raf",
+                "no_surat": "7",
+                "ayat": "54",
                 "related_konsep": [],
                 "subkategori": []
             },
@@ -62,6 +74,9 @@
                 "nama": "Bulan",
                 "imageSrc": "/images/ontologi/bulan.png",
                 "terjemahan": "Di sana Dia menjadikan <strong>bulan</strong> bercahaya dan matahari sebagai pelita (yang cemerlang).",
+                "surat": "Nuh",
+                "no_surat": "71",
+                "ayat": "16",
                 "related_konsep": [],
                 "subkategori": []
             },
@@ -69,6 +84,9 @@
                 "nama": "Matahari",
                 "imageSrc": "/images/ontologi/matahari.png",
                 "terjemahan": "Di sana Dia menjadikan bulan bercahaya dan <strong>matahari</strong> sebagai pelita (yang cemerlang).",
+                "surat": "Nuh",
+                "no_surat": "71",
+                "ayat": "16",
                 "related_konsep": [],
                 "subkategori": []
             }
@@ -86,6 +104,9 @@
                         "nama": "Hari kiamat",
                         "imageSrc": "/images/ontologi/hari-kiamat.png",
                         "terjemahan": "Katakanlah, “Allah menghidupkan kamu lalu mematikan kamu kemudian mengumpulkan kamu pada <strong>hari Kiamat</strong> yang tidak ada keraguan tentangnya, tetapi kebanyakan manusia tidak mengetahui.”",
+                        "surat": "Al-Jasiyah",
+                        "no_surat": "45",
+                        "ayat": "26",
                         "related_konsep": [],
                         "subkategori": []
                     },
@@ -93,6 +114,9 @@
                         "nama": "Hari akhir",
                         "imageSrc": "/images/ontologi/hari-akhir.png",
                         "terjemahan": "Di antara manusia ada yang berkata, “Kami beriman kepada Allah dan <strong>hari Akhir</strong>,” padahal sesungguhnya mereka itu bukanlah orang-orang mukmin.",
+                        "surat": "Al-Baqarah",
+                        "no_surat": "2",
+                        "ayat": "8",
                         "related_konsep": [],
                         "subkategori": []
                     }
@@ -108,7 +132,7 @@
                         "imageSrc": "/images/ontologi/haji.png",
                         "terjemahan": "Sesungguhnya Safa dan Marwah merupakan sebagian syiar (agama) Allah. Maka, siapa beribadah <strong>haji</strong> ke Baitullah atau berumrah, tidak ada dosa baginya mengerjakan sai antara keduanya. Siapa yang dengan kerelaan hati mengerjakan kebajikan, maka sesungguhnya Allah Maha Mensyukuri, lagi Maha Mengetahui. ",
                         "surat": "Al-Baqarah",
-                        "no-surat": "2",
+                        "no_surat": "2",
                         "ayat": "158",
                         "related_konsep": [],
                         "subkategori": []
@@ -118,7 +142,7 @@
                         "imageSrc": "/images/ontologi/umroh.png",
                         "terjemahan": "Sesungguhnya Safa dan Marwah merupakan sebagian syiar (agama) Allah. Maka, siapa beribadah haji ke Baitullah atau <strong>berumrah</strong>, tidak ada dosa baginya mengerjakan sai antara keduanya. Siapa yang dengan kerelaan hati mengerjakan kebajikan, maka sesungguhnya Allah Maha Mensyukuri, lagi Maha Mengetahui. ",
                         "surat": "Al-Baqarah",
-                        "no-surat": "2",
+                        "no_surat": "2",
                         "ayat": "158",
                         "related_konsep": [],
                         "subkategori": []
@@ -126,22 +150,40 @@
                     {
                         "nama": "Jum'at",
                         "imageSrc": "/images/ontologi/jumat.png",
+                        "terjemahan": "Wahai orang-orang yang beriman, apabila (seruan) untuk melaksanakan salat pada hari <strong>Jumat</strong> telah dikumandangkan, segeralah mengingat Allah dan tinggalkanlah jual beli. Yang demikian itu lebih baik bagimu jika kamu mengetahui.",
+                        "surat": "Al-Jumu'ah",
+                        "no_surat": "62",
+                        "ayat": "9",
                         "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Ramadan",
                         "imageSrc": "/images/ontologi/ramadhan.png",
+                        "terjemahan": "Bulan <strong>Ramadan</strong> adalah (bulan) yang di dalamnya diturunkan Al-Qur’an sebagai petunjuk bagi manusia dan penjelasan-penjelasan mengenai petunjuk itu serta pembeda (antara yang hak dan yang batil). Oleh karena itu, siapa di antara kamu hadir (di tempat tinggalnya atau bukan musafir) pada bulan itu, berpuasalah. Siapa yang sakit atau dalam perjalanan (lalu tidak berpuasa), maka (wajib menggantinya) sebanyak hari (yang ditinggalkannya) pada hari-hari yang lain. Allah menghendaki kemudahan bagimu dan tidak menghendaki kesukaran. Hendaklah kamu mencukupkan bilangannya dan mengagungkan Allah atas petunjuk-Nya yang diberikan kepadamu agar kamu bersyukur.",
+                        "surat": "Al-Baqarah",
+                        "no_surat": "2",
+                        "ayat": "185",
                         "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Hari sabat",
+                        "imageSrc": "/images/ontologi/sabat.png",
+                        "terjemahan": "Kami pun telah mengangkat gunung (Sinai) di atas mereka untuk (menguatkan) perjanjian mereka. Kami perintahkan kepada mereka, “Masukilah pintu gerbang (Baitulmaqdis) itu sambil bersujud”. Kami perintahkan pula kepada mereka, “Janganlah melanggar (peraturan) pada <strong>hari Sabat</strong>.” Kami telah mengambil dari mereka perjanjian yang kukuh.",
+                        "surat": "An-Nisa",
+                        "no_surat": "4",
+                        "ayat": "154",
                         "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Lailatulqadar",
+                        "imageSrc": "/images/ontologi/lailatulqadr.png",
+                        "terjemahan": "Sesungguhnya Kami telah menurunkannya (Al-Qur’an) pada <strong>Lailatulqadar</strong>.",
+                        "surat": "Al-Qadr",
+                        "no_surat": "97",
+                        "ayat": "1",
                         "related_konsep": [],
                         "subkategori": []
                     }
@@ -154,6 +196,10 @@
                     {
                         "nama": "Jahiliah",
                         "imageSrc": "/images/ontologi/jahiliyah.png",
+                        "terjemahan": "Apakah hukum <strong>jahiliah</strong> yang mereka kehendaki? (Hukum) siapakah yang lebih baik daripada (hukum) Allah bagi orang-orang yang meyakini (agamanya)?",
+                        "surat": "Al-Ma'idah",
+                        "no_surat": "5",
+                        "ayat": "50",
                         "related_konsep": [],
                         "subkategori": []
                     }
@@ -172,6 +218,10 @@
                     {
                         "nama": "fajr",
                         "imageSrc": "/images/ontologi/subuh.png",
+                        "terjemahan": "Dirikanlah salat sejak matahari tergelincir sampai gelapnya malam dan (laksanakan pula salat) <strong>Subuh</strong>! Sesungguhnya salat <strong>Subuh</strong> itu disaksikan (oleh malaikat).",
+                        "surat": "Al-Isra'",
+                        "no_surat": "17",
+                        "ayat": "78",
                         "related_konsep": [],
                         "subkategori": []
                     }
@@ -184,46 +234,91 @@
         "related_konsep": [
             {
                 "nama": "Al-'Uzza",
+                "imageSrc": "/images/ontologi/AlUzza.png",
+                "terjemahan": "Apakah patut kamu (orang-orang musyrik) menganggap (dua berhala) al-Lata dan <strong>al-‘Uzza</strong>,",
+                "surat": "An-Najm",
+                "no_surat": "53",
+                "ayat": "19",
                 "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Al-Lata",
+                "imageSrc": "/images/ontologi/AlUzza.png",
+                "terjemahan": "Apakah patut kamu (orang-orang musyrik) menganggap (dua berhala) <strong>al-Lata</strong> dan al-‘Uzza,",
+                "surat": "An-Najm",
+                "no_surat": "53",
+                "ayat": "19",
                 "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Wadd",
+                "imageSrc": "/images/ontologi/wadd.png",
+                "terjemahan": "Mereka berkata, ‘Jangan sekali-kali kamu meninggalkan tuhan-tuhanmu dan jangan pula sekali-kali kamu meninggalkan <strong>Wadd</strong>, Suwā‘, Yagūṡ, Ya‘ūq, dan Nasr.’",
+                "surat": "Nuh",
+                "no_surat": "71",
+                "ayat": "23",
                 "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Suwa",
+                "imageSrc": "/images/ontologi/wadd.png",
+                "terjemahan": "Mereka berkata, ‘Jangan sekali-kali kamu meninggalkan tuhan-tuhanmu dan jangan pula sekali-kali kamu meninggalkan Wadd, <strong>Suwā‘</strong>, Yagūṡ, Ya‘ūq, dan Nasr.’",
+                "surat": "Nuh",
+                "no_surat": "71",
+                "ayat": "23",
                 "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Ya'uq",
+                "imageSrc": "/images/ontologi/wadd.png",
+                "terjemahan": "Mereka berkata, ‘Jangan sekali-kali kamu meninggalkan tuhan-tuhanmu dan jangan pula sekali-kali kamu meninggalkan Wadd, Suwā‘, Yagūṡ, <strong>Ya‘ūq</strong>, dan Nasr.’",
+                "surat": "Nuh",
+                "no_surat": "71",
+                "ayat": "23",
                 "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Nasr",
+                "imageSrc": "/images/ontologi/wadd.png",
+                "terjemahan": "Mereka berkata, ‘Jangan sekali-kali kamu meninggalkan tuhan-tuhanmu dan jangan pula sekali-kali kamu meninggalkan Wadd, Suwā‘, Yagūṡ, Ya‘ūq, dan <strong>Nasr</strong>.’",
+                "surat": "Nuh",
+                "no_surat": "71",
+                "ayat": "23",
                 "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Manata",
+                "imageSrc": "/images/ontologi/manata.png",
+                "terjemahan": " serta <strong>Manata</strong> (berhala) ketiga yang lain (sebagai anak-anak perempuan Allah yang kamu sembah)?",
+                "surat": "An-Najm",
+                "no_surat": "53",
+                "ayat": "20",
                 "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Ba'l",
+                "imageSrc": "/images/ontologi/baal.png",
+                "terjemahan": "Apakah kamu terus menyeru <strong>Ba‘l</strong> dan meninggalkan sebaik-baik pencipta,",
+                "surat": "As-Saffat",
+                "no_surat": "37",
+                "ayat": "125",
                 "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Yagus",
+                "imageSrc": "/images/ontologi/wadd.png",
+                "terjemahan": "Mereka berkata, ‘Jangan sekali-kali kamu meninggalkan tuhan-tuhanmu dan jangan pula sekali-kali kamu meninggalkan Wadd, Suwā‘, <strong>Yagūṡ</strong>, Ya‘ūq, dan Nasr.’",
+                "surat": "Nuh'",
+                "no_surat": "71",
+                "ayat": "23",
                 "related_konsep": [],
                 "subkategori": []
             }
@@ -235,6 +330,11 @@
                 "subkategori": [
                     {
                         "nama": "patung anak sapi",
+                        "imageSrc": "/images/ontologi/anakSapi.png",
+                        "terjemahan": "Kaum Musa, setelah kepergian (Musa ke Gunung Sinai), membuat (sembahan berupa) <strong>patung anak sapi</strong> yang bertubuh dan dapat melenguh (bersuara) dari perhiasan emas mereka. Apakah mereka tidak mengetahui bahwa (patung) anak sapi itu tidak dapat berbicara dengan mereka dan tidak dapat (pula) menunjukkan jalan (kebaikan) kepada mereka? (Bahkan,) mereka menjadikannya (sebagai sembahan). Mereka adalah orang-orang zalim. ",
+                        "surat": "Al-A'raf",
+                        "no_surat": "7",
+                        "ayat": "148",
                         "related_konsep": [],
                         "subkategori": []
                     }
@@ -253,6 +353,11 @@
             },
             {
                 "nama": "Injil",
+                "imageSrc": "/images/ontologi/injil.png",
+                "terjemahan": "Mereka berkata, ‘Jangan sekali-kali kamu meninggalkan tuhan-tuhanmu dan jangan pula sekali-kali kamu meninggalkan Wadd, Suwā‘, <strong>Yagūṡ</strong>, Ya‘ūq, dan Nasr.’",
+                "surat": "Nuh'",
+                "no_surat": "3",
+                "ayat": "3",
                 "related_konsep": [],
                 "subkategori": []
             },
