@@ -768,26 +768,51 @@
                                     },
                                     {
                                         "nama": "Penduduk negeri Hijr",
+                                        "imageSrc": "/images/ontologi/kaumBersejarah/hijr.png",
+                                        "terjemahan": "Sesungguhnya <strong>penduduk (negeri) Hijr</strong> benar-benar telah mendustakan para rasul (mereka),",
+                                        "surat": "Al-Hijr",
+                                        "no_surat": "15",
+                                        "ayat": "80",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Orang-orang Quraisy",
+                                        "imageSrc": "/images/ontologi/kaumBersejarah/quraish.png",
+                                        "terjemahan": "Disebabkan oleh kebiasaan <strong>orang-orang Quraisy</strong>,",
+                                        "surat": "Quraisy",
+                                        "no_surat": "106",
+                                        "ayat": "1",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Bangsa Romawi",
+                                        "imageSrc": "/images/ontologi/kaumBersejarah/romawi.png",
+                                        "terjemahan": "<strong>Bangsa Romawi</strong> telah dikalahkan,",
+                                        "surat": "Ar-Rum",
+                                        "no_surat": "30",
+                                        "ayat": "2",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
-                                        "nama": "Samud/(kaum) Samud",
+                                        "nama": "Samud",
+                                        "imageSrc": "/images/ontologi/kaumBersejarah/samud.png",
+                                        "terjemahan": "Kami telah mengutus) kepada (kaum) <strong>Samud</strong> saudara mereka, Saleh. Dia berkata, “Wahai kaumku, sembahlah Allah, tidak ada bagi kamu tuhan selain Dia. Sungguh, telah datang kepada kamu bukti yang nyata dari Tuhanmu. Ini adalah unta betina Allah untuk kamu sebagai mukjizat. Maka, biarkanlah ia makan di bumi Allah dan janganlah kamu mengganggunya dengan keburukan apa pun sehingga kamu ditimpa siksa yang sangat pedih.”",
+                                        "surat": "Al-A'raf",
+                                        "no_surat": "7",
+                                        "ayat": "73",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Kaum Tubba'",
+                                        "imageSrc": "/images/ontologi/kaumBersejarah/tubba.png",
+                                        "terjemahan": "Apakah mereka yang lebih baik atau kaum <strong>Tubba‘</strong> dan orang-orang yang sebelum mereka. Kami telah membinasakan mereka karena sesungguhnya mereka adalah para pendurhaka.",
+                                        "surat": "Al-A'raf",
+                                        "no_surat": "7",
+                                        "ayat": "73",
                                         "related_konsep": [],
                                         "subkategori": []
                                     }
@@ -799,76 +824,151 @@
                                 "subkategori": [
                                     {
                                         "nama": "Habil",
+                                        "imageSrc": "/images/ontologi/orangBersejarah/habil.png",
+                                        "terjemahan": "Bacakanlah (Nabi Muhammad) kepada mereka berita tentang dua putra Adam dengan sebenarnya. Ketika keduanya mempersembahkan kurban, kemudian diterima dari salah satunya (<strong>Habil</strong>) dan tidak diterima dari yang lain (Qabil). Dia (Qabil) berkata, “Sungguh, aku pasti akan membunuhmu.” Dia (<strong>Habil</strong>) berkata, “Sesungguhnya Allah hanya menerima (amal) dari orang-orang yang bertakwa.",
+                                        "surat": "Al-Ma'idah",
+                                        "no_surat": "5",
+                                        "ayat": "27",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Azar",
+                                        "imageSrc": "/images/ontologi/orangBersejarah/azar.png",
+                                        "terjemahan": "(Ingatlah) ketika Ibrahim berkata kepada ayahnya, <strong>Azar</strong>, “Apakah (pantas) engkau menjadikan berhala-berhala itu sebagai tuhan? Sesungguhnya aku melihat engkau dan kaummu dalam kesesatan yang nyata.”",
+                                        "surat": "Al-An'am",
+                                        "no_surat": "6",
+                                        "ayat": "74",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Qabil",
+                                        "imageSrc": "/images/ontologi/orangBersejarah/habil.png",
+                                        "terjemahan": "Bacakanlah (Nabi Muhammad) kepada mereka berita tentang dua putra Adam dengan sebenarnya. Ketika keduanya mempersembahkan kurban, kemudian diterima dari salah satunya (Habil) dan tidak diterima dari yang lain (<strong>Qabil</strong>). Dia (<strong>Qabil</strong>) berkata, “Sungguh, aku pasti akan membunuhmu.” Dia (Habil) berkata, “Sesungguhnya Allah hanya menerima (amal) dari orang-orang yang bertakwa.",
+                                        "surat": "Al-Ma'idah",
+                                        "no_surat": "5",
+                                        "ayat": "27",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Zulkifli",
+                                        "imageSrc": "/images/ontologi/orangBersejarah/zulkifli.png",
+                                        "terjemahan": "Ingatlah Ismail, Ilyasa, dan <strong>Zulkifli</strong>. Semuanya termasuk orang-orang yang paling baik.",
+                                        "surat": "Sad",
+                                        "no_surat": "38",
+                                        "ayat": "48",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Zulqarnain",
+                                        "imageSrc": "/images/ontologi/orangBersejarah/zulkarnain.png",
+                                        "terjemahan": "Mereka berkata, “Wahai <strong>Zulqarnain</strong>, sesungguhnya Ya’juj dan Ma’juj adalah (bangsa) pembuat kerusakan di bumi, bolehkah kami memberimu imbalan agar engkau membuatkan tembok penghalang antara kami dan mereka?”",
+                                        "surat": "Al-Kahf",
+                                        "no_surat": "18",
+                                        "ayat": "94",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Haman",
+                                        "imageSrc": "/images/ontologi/orangBersejarah/haman.png",
+                                        "terjemahan": "Kami pun (berkehendak untuk) meneguhkan kedudukan mereka (Bani Israil) di bumi dan memperlihatkan kepada Firʻaun, <strong>Haman</strong>, dan bala tentaranya apa yang selalu mereka takutkan dari mereka (Bani Israil).",
+                                        "surat": "Al-Qasas",
+                                        "no_surat": "28",
+                                        "ayat": "6",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Imran",
+                                        "imageSrc": "/images/ontologi/orangBersejarah/imran.png",
+                                        "terjemahan": "(Ingatlah) ketika istri <strong>Imran</strong> berkata, “Wahai Tuhanku, sesungguhnya aku menazarkan kepada-Mu apa yang ada di dalam kandunganku murni untuk-Mu (berkhidmat di Baitulmaqdis). Maka, terimalah (nazar itu) dariku. Sesungguhnya Engkaulah Yang Maha Mendengar lagi Maha Mengetahui.”",
+                                        "surat": "Ali 'Imran",
+                                        "no_surat": "3",
+                                        "ayat": "35",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Jalut",
+                                        "imageSrc": "/images/ontologi/orangBersejarah/jalut.png",
+                                        "terjemahan": "Maka, ketika Talut keluar membawa bala tentara(-nya), dia berkata, “Sesungguhnya Allah akan mengujimu dengan sebuah sungai. Maka, siapa yang meminum (airnya), sesungguhnya dia tidak termasuk (golongan)-ku. Siapa yang tidak meminumnya, sesungguhnya dia termasuk (golongan)-ku kecuali menciduk seciduk dengan tangan.” Akan tetapi, mereka meminumnya kecuali sebagian kecil di antara mereka. Ketika dia (Talut) dan orang-orang yang beriman bersamanya menyeberangi sungai itu, mereka berkata, “Kami tidak kuat lagi pada hari ini melawan <strong>Jalut</strong> dan bala tentaranya.” Mereka yang meyakini bahwa mereka akan menemui Allah berkata, “Betapa banyak kelompok kecil mengalahkan kelompok besar dengan izin Allah.” Allah bersama orang-orang yang sabar. ",
+                                        "surat": "Al-Baqarah",
+                                        "no_surat": "2",
+                                        "ayat": "249",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Luqman",
+                                        "imageSrc": "/images/ontologi/orangBersejarah/luqman.png",
+                                        "terjemahan": "Sungguh, Kami benar-benar telah memberikan hikmah kepada <strong>Luqman</strong>, yaitu, “Bersyukurlah kepada Allah! Siapa yang bersyukur, sesungguhnya dia bersyukur untuk dirinya sendiri. Siapa yang kufur (tidak bersyukur), sesungguhnya Allah Maha Kaya lagi Maha Terpuji.”",
+                                        "surat": "Luqman",
+                                        "no_surat": "31",
+                                        "ayat": "12",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Maryam",
+                                        "imageSrc": "/images/ontologi/orangBersejarah/maryam.png",
+                                        "terjemahan": "(Ingatlah) ketika Malaikat (Jibril) berkata, “Wahai <strong>Maryam</strong>, sesungguhnya Allah menyampaikan kabar gembira kepadamu tentang (kelahiran anak yang diciptakan) dengan kalimat dari-Nya, namanya Isa Almasih putra <strong>Maryam</strong>, seorang terkemuka di dunia dan di akhirat serta termasuk orang-orang yang didekatkan (kepada Allah).",
+                                        "surat": "Ali 'Imran",
+                                        "no_surat": "3",
+                                        "ayat": "45",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Fir'aun",
+                                        "imageSrc": "/images/ontologi/orangBersejarah/firaun.png",
+                                        "terjemahan": "(Ingatlah) ketika Kami menyelamatkan kamu dari (Fir‘aun dan) pengikut-pengikut <strong>Fir‘aun</strong>. Mereka menimpakan siksaan yang sangat berat kepadamu. Mereka menyembelih anak-anak laki-lakimu dan membiarkan hidup anak-anak perempuanmu. Pada yang demikian terdapat cobaan yang sangat besar dari Tuhanmu.",
+                                        "surat": "Al-Baqarah",
+                                        "no_surat": "2",
+                                        "ayat": "49",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Qarun",
+                                        "imageSrc": "/images/ontologi/orangBersejarah/qarun.png",
+                                        "terjemahan": "Sesungguhnya <strong>Qarun</strong> termasuk kaum Musa, tetapi dia berlaku aniaya terhadap mereka. Kami telah menganugerahkan kepadanya perbendaharaan harta yang kunci-kuncinya sungguh berat dipikul oleh sejumlah orang yang kuat-kuat. (Ingatlah) ketika kaumnya berkata kepadanya, “Janganlah engkau terlalu bangga. Sesungguhnya Allah tidak menyukai orang-orang yang terlalu membanggakan diri.",
+                                        "surat": "Al-Qasas",
+                                        "no_surat": "28",
+                                        "ayat": "76",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Samiri",
+                                        "imageSrc": "/images/ontologi/orangBersejarah/samiri.png",
+                                        "terjemahan": "Dia (Allah) berfirman, “Sesungguhnya Kami benar-benar telah menguji kaummu setelah engkau tinggalkan dan <strong>Samiri</strong> telah menyesatkan mereka.”",
+                                        "surat": "Taha",
+                                        "no_surat": "20",
+                                        "ayat": "85",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Talut",
+                                        "imageSrc": "/images/ontologi/orangBersejarah/talut.png",
+                                        "terjemahan": "Nabi mereka berkata kepada mereka, “Sesungguhnya Allah telah mengangkat <strong>Talut</strong> menjadi rajamu.” Mereka menjawab, “Bagaimana (mungkin) dia memperoleh kerajaan (kekuasaan) atas kami, sedangkan kami lebih berhak atas kerajaan itu daripadanya dan dia tidak diberi kekayaan yang banyak?” (Nabi mereka) menjawab, “Sesungguhnya Allah telah memilihnya (menjadi raja) kamu dan memberikan kepadanya kelebihan ilmu dan fisik.” Allah menganugerahkan kerajaan-Nya kepada siapa yang Dia kehendaki. Allah Maha Luas (kekuasaan dan rezeki-Nya) lagi Maha Mengetahui.",
+                                        "surat": "Al-Baqarah",
+                                        "no_surat": "2",
+                                        "ayat": "247",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Uzair",
+                                        "imageSrc": "/images/ontologi/orangBersejarah/uzair.png",
+                                        "terjemahan": "Orang-orang Yahudi berkata, “<strong>Uzair</strong> putra Allah,” dan orang-orang Nasrani berkata, “Al-Masih putra Allah.” Itulah ucapan mereka dengan mulut-mulut mereka. Mereka meniru ucapan orang-orang yang kufur sebelumnya. Allah melaknat mereka; bagaimana mereka sampai berpaling?",
+                                        "surat": "At-Taubah",
+                                        "no_surat": "9",
+                                        "ayat": "30",
                                         "related_konsep": [],
                                         "subkategori": []
                                     }
