@@ -975,7 +975,7 @@
                                 ]
                             },
                             {
-                                "nama": "Raja/Ratu",
+                                "nama": "Raja|Ratu",
                                 "related_konsep": [],
                                 "subkategori": [
                                     {
@@ -996,61 +996,121 @@
                                 "subkategori": [
                                     {
                                         "nama": "Ilyas",
+                                        "imageSrc": "/images/ontologi/rasul/ilyas.png",
+                                        "terjemahan": "(Demikian juga kepada) Zakaria, Yahya, Isa, dan <strong>Ilyas</strong>. Semuanya termasuk orang-orang yang saleh.",
+                                        "surat": "Al-An'am",
+                                        "no_surat": "6",
+                                        "ayat": "85",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Hud",
+                                        "imageSrc": "/images/ontologi/rasul/rasulHud.png",
+                                        "terjemahan": "(Kami telah mengutus) kepada (kaum) ‘Ad saudara mereka, <strong>Hud</strong>. Dia berkata, “Wahai kaumku, sembahlah Allah, tidak ada tuhan bagimu selain Dia. Tidakkah kamu bertakwa?”",
+                                        "surat": "Al-A'raf",
+                                        "no_surat": "7",
+                                        "ayat": "65",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Ibrahim",
+                                        "imageSrc": "/images/ontologi/rasul/ibrahim.png",
+                                        "terjemahan": "Berjuanglah kamu pada (jalan) Allah dengan sebenar-benarnya. Dia telah memilih kamu dan tidak menjadikan kesulitan untukmu dalam agama. (Ikutilah) agama nenek moyangmu, yaitu <strong>Ibrahim</strong>. Dia (Allah) telah menamakan kamu orang-orang muslim sejak dahulu dan (begitu pula) dalam (kitab) ini (Al-Qur’an) agar Rasul (Nabi Muhammad) menjadi saksi atas dirimu dan agar kamu semua menjadi saksi atas segenap manusia. Maka, tegakkanlah salat, tunaikanlah zakat, dan berpegang teguhlah pada (ajaran) Allah. Dia adalah pelindungmu. Dia adalah sebaik-baik pelindung dan sebaik-baik penolong.",
+                                        "surat": "Al-Hajj",
+                                        "no_surat": "22",
+                                        "ayat": "78",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Ismail",
+                                        "imageSrc": "/images/ontologi/rasul/ismail.png",
+                                        "terjemahan": "(Ingatlah) ketika Kami menjadikan rumah itu (Ka‘bah) tempat berkumpul dan tempat yang aman bagi manusia. (Ingatlah ketika Aku katakan,) “Jadikanlah sebagian Maqam Ibrahim sebagai tempat salat.” (Ingatlah ketika) Kami wasiatkan kepada Ibrahim dan <strong>Ismail</strong>, “Bersihkanlah rumah-Ku untuk orang-orang yang tawaf, yang iktikaf, serta yang rukuk dan sujud (salat)!”",
+                                        "surat": "Al-Baqarah",
+                                        "no_surat": "2",
+                                        "ayat": "125",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Isa putra Maryam",
+                                        "imageSrc": "/images/ontologi/rasul/isa.png",
+                                        "terjemahan": "(Ingatlah) ketika <strong>Isa putra Maryam</strong> berkata, “Wahai Bani Israil, sesungguhnya aku adalah utusan Allah kepadamu untuk membenarkan kitab (yang turun) sebelumku, yaitu Taurat, dan memberi kabar gembira tentang seorang utusan Allah yang akan datang setelahku yang namanya Ahmad (Nabi Muhammad).” Akan tetapi, ketika utusan itu datang kepada mereka dengan membawa bukti-bukti yang nyata, mereka berkata, “Ini adalah sihir yang nyata.”",
+                                        "surat": "As-Saff",
+                                        "no_surat": "61",
+                                        "ayat": "6",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Lut",
+                                        "imageSrc": "/images/ontologi/rasul/lut.png",
+                                        "terjemahan": "(Begitu juga kepada) Ismail, Ilyasa’, Yunus, dan <strong>Lut</strong>. Tiap-tiap mereka Kami lebihkan daripada (umat) seluruh alam (pada masanya).",
+                                        "surat": "Al-An'am",
+                                        "no_surat": "6",
+                                        "ayat": "86",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Muhammad",
+                                        "imageSrc": "/images/ontologi/rasul/muhammad.png",
+                                        "terjemahan": "<strong>Muhammad</strong> itu bukanlah bapak dari seseorang di antara kamu, melainkan dia adalah utusan Allah dan penutup para nabi. Allah Maha Mengetahui segala sesuatu.",
+                                        "surat": "Al-Ahzab",
+                                        "no_surat": "33",
+                                        "ayat": "40",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Musa",
+                                        "imageSrc": "/images/ontologi/rasul/musa.png",
+                                        "terjemahan": "Wahai orang-orang yang beriman, janganlah kamu seperti orang-orang (dari Bani Israil) yang menyakiti <strong>Musa</strong>, lalu Allah membersihkannya dari tuduhan-tuduhan yang mereka lontarkan. Dia seorang yang mempunyai kedudukan terhormat di sisi Allah.",
+                                        "surat": "Al-Ahzab",
+                                        "no_surat": "33",
+                                        "ayat": "69",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Nuh",
+                                        "imageSrc": "/images/ontologi/rasul/nuh.png",
+                                        "terjemahan": "Sungguh, Kami benar-benar telah mengutus <strong>Nuh</strong> kepada kaumnya, lalu dia tinggal bersama mereka selama seribu tahun kurang lima puluh tahun. Kemudian, mereka dilanda banjir besar dalam keadaan sebagai orang-orang zalim.",
+                                        "surat": "Al-Ankabut",
+                                        "no_surat": "29",
+                                        "ayat": "14",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Saleh",
+                                        "imageSrc": "/images/ontologi/rasul/saleh.png",
+                                        "terjemahan": "Kami telah mengutus) kepada (kaum) Samud saudara mereka, <strong>Saleh</strong>. Dia berkata, “Wahai kaumku, sembahlah Allah, tidak ada bagi kamu tuhan selain Dia. Sungguh, telah datang kepada kamu bukti yang nyata dari Tuhanmu. Ini adalah unta betina Allah untuk kamu sebagai mukjizat. Maka, biarkanlah ia makan di bumi Allah dan janganlah kamu mengganggunya dengan keburukan apa pun sehingga kamu ditimpa siksa yang sangat pedih.” ",
+                                        "surat": "Al-A'raf",
+                                        "no_surat": "7",
+                                        "ayat": "73",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Syu'aib",
+                                        "imageSrc": "/images/ontologi/rasul/syuaib.png",
+                                        "terjemahan": "Kepada penduduk Madyan, Kami (utus) saudara mereka, <strong>Syuʻaib</strong>. Dia berkata, “Wahai kaumku, sembahlah Allah. Tidak ada bagimu tuhan (yang disembah) selain Dia. Sungguh, telah datang kepadamu bukti yang nyata dari Tuhanmu. Maka, sempurnakanlah takaran dan timbangan, dan janganlah merugikan (hak-hak) orang lain sedikit pun. Jangan (pula) berbuat kerusakan di bumi setelah perbaikannya. Itulah lebih baik bagimu, jika kamu beriman.”",
+                                        "surat": "Al-A'raf",
+                                        "no_surat": "7",
+                                        "ayat": "85",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Yunus",
+                                        "imageSrc": "/images/ontologi/rasul/yunus.png",
+                                        "terjemahan": "Sesungguhnya Kami telah mewahyukan kepadamu (Nabi Muhammad) sebagaimana Kami telah mewahyukan kepada Nuh dan nabi-nabi setelahnya. Kami telah mewahyukan pula kepada Ibrahim, Ismail, Ishaq, Ya‘qub dan keturunan(-nya), Isa, Ayyub, <strong>Yunus<strong>, Harun, dan Sulaiman. Kami telah memberikan (Kitab) Zabur kepada Daud.",
+                                        "surat": "An-Nisa",
+                                        "no_surat": "4",
+                                        "ayat": "163",
                                         "related_konsep": [],
                                         "subkategori": []
                                     }
@@ -1062,76 +1122,151 @@
                                 "subkategori": [
                                     {
                                         "nama": "Adam",
+                                        "imageSrc": "/images/ontologi/nabi/adam.png",
+                                        "terjemahan": "(Allah berfirman,) “Wahai <strong>Adam</strong>, tinggallah engkau dan istrimu di surga (ini). Lalu, makanlah apa saja yang kamu berdua sukai dan janganlah kamu berdua mendekati pohon yang satu ini sehingga kamu berdua termasuk orang-orang yang zalim.”",
+                                        "surat": "Al-A'raf",
+                                        "no_surat": "7",
+                                        "ayat": "19",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Ahmad",
+                                        "imageSrc": "/images/ontologi/nabi/ahmad.png",
+                                        "terjemahan": "(Ingatlah) ketika Isa putra Maryam berkata, “Wahai Bani Israil, sesungguhnya aku adalah utusan Allah kepadamu untuk membenarkan kitab (yang turun) sebelumku, yaitu Taurat, dan memberi kabar gembira tentang seorang utusan Allah yang akan datang setelahku yang namanya <strong>Ahmad</strong> (Nabi Muhammad).” Akan tetapi, ketika utusan itu datang kepada mereka dengan membawa bukti-bukti yang nyata, mereka berkata, “Ini adalah sihir yang nyata.”",
+                                        "surat": "As-Saff",
+                                        "no_surat": "61",
+                                        "ayat": "6",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Ayyub",
+                                        "imageSrc": "/images/ontologi/nabi/ayyub.png",
+                                        "terjemahan": "Sesungguhnya Kami telah mewahyukan kepadamu (Nabi Muhammad) sebagaimana Kami telah mewahyukan kepada Nuh dan nabi-nabi setelahnya. Kami telah mewahyukan pula kepada Ibrahim, Ismail, Ishaq, Ya‘qub dan keturunan(-nya), Isa, <strong>Ayyub</strong>, Yunus, Harun, dan Sulaiman. Kami telah memberikan (Kitab) Zabur kepada Daud.",
+                                        "surat": "An-Nisa",
+                                        "no_surat": "4",
+                                        "ayat": "163",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Daud",
+                                        "imageSrc": "/images/ontologi/nabi/daud.png",
+                                        "terjemahan": "Mereka (tentara Talut) mengalahkan tentara Jalut dengan izin Allah dan <strong>Daud</strong> membunuh Jalut. Kemudian, Allah menganugerahinya (Daud) kerajaan dan hikmah (kenabian); Dia (juga) mengajarinya apa yang Dia kehendaki. Seandainya Allah tidak menolak (keganasan) sebagian manusia dengan sebagian yang lain, niscaya rusaklah bumi ini. Akan tetapi, Allah mempunyai karunia (yang dilimpahkan-Nya) atas seluruh alam.",
+                                        "surat": "Al-Baqarah",
+                                        "no_surat": "2",
+                                        "ayat": "251",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Ilyasa",
+                                        "imageSrc": "/images/ontologi/nabi/ilyasa2.png",
+                                        "terjemahan": "(Begitu juga kepada) Ismail, <strong>Ilyasa’</strong>, Yunus, dan Lut. Tiap-tiap mereka Kami lebihkan daripada (umat) seluruh alam (pada masanya).",
+                                        "surat": "Al-An'am",
+                                        "no_surat": "6",
+                                        "ayat": "86",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Harun",
+                                        "imageSrc": "/images/ontologi/nabi/harun.png",
+                                        "terjemahan": "Sesungguhnya Kami telah mewahyukan kepadamu (Nabi Muhammad) sebagaimana Kami telah mewahyukan kepada Nuh dan nabi-nabi setelahnya. Kami telah mewahyukan pula kepada Ibrahim, Ismail, Ishaq, Ya‘qub dan keturunan(-nya), Isa, Ayyub, Yunus, <strong>Harun</strong>, dan Sulaiman. Kami telah memberikan (Kitab) Zabur kepada Daud.",
+                                        "surat": "An-Nisa",
+                                        "no_surat": "4",
+                                        "ayat": "163",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Idris",
+                                        "imageSrc": "/images/ontologi/nabi/idris.png",
+                                        "terjemahan": "Ceritakanlah (Nabi Muhammad kisah) <strong>Idris</strong> di dalam Kitab (Al-Qur’an). Sesungguhnya dia adalah orang yang sangat benar dan membenarkan lagi seorang nabi.",
+                                        "surat": "Maryam",
+                                        "no_surat": "19",
+                                        "ayat": "56",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Ishaq",
+                                        "imageSrc": "/images/ontologi/nabi/ishaq.png",
+                                        "terjemahan": "Apakah kamu (hadir) menjadi saksi menjelang kematian Ya‘qub ketika dia berkata kepada anak-anaknya, “Apa yang kamu sembah sepeninggalku?” Mereka menjawab, “Kami akan menyembah Tuhanmu dan Tuhan nenek moyangmu: Ibrahim, Ismail, dan <strong>Ishaq</strong>, (yaitu) Tuhan Yang Maha Esa dan (hanya) kepada-Nya kami berserah diri.”",
+                                        "surat": "Al-Baqarah",
+                                        "no_surat": "2",
+                                        "ayat": "133",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Israil",
+                                        "imageSrc": "/images/ontologi/nabi/israil.png",
+                                        "terjemahan": "Semua makanan halal bagi Bani Israil, kecuali makanan yang diharamkan oleh <strong>Israil</strong> (Ya‘qub) atas dirinya sebelum Taurat diturunkan. Katakanlah (Nabi Muhammad), “Bawalah Taurat lalu bacalah, jika kamu orang-orang yang benar.”",
+                                        "surat": "Ali 'Imran",
+                                        "no_surat": "3",
+                                        "ayat": "93",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Isa Almasih putra Maryam",
+                                        "imageSrc": "/images/ontologi/rasul/isa.png",
+                                        "terjemahan": "(Ingatlah) ketika <strong>Isa putra Maryam</strong> berkata, “Wahai Bani Israil, sesungguhnya aku adalah utusan Allah kepadamu untuk membenarkan kitab (yang turun) sebelumku, yaitu Taurat, dan memberi kabar gembira tentang seorang utusan Allah yang akan datang setelahku yang namanya Ahmad (Nabi Muhammad).” Akan tetapi, ketika utusan itu datang kepada mereka dengan membawa bukti-bukti yang nyata, mereka berkata, “Ini adalah sihir yang nyata.”",
+                                        "surat": "As-Saff",
+                                        "no_surat": "61",
+                                        "ayat": "6",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Sulaiman",
+                                        "imageSrc": "/images/ontologi/nabi/sulaiman.png",
+                                        "terjemahan": "Bagi <strong>Sulaiman</strong> (Kami tundukkan) angin yang (jarak tempuh) perjalanannya pada waktu pagi sama dengan perjalanan sebulan dan perjalanannya pada waktu sore sama dengan perjalanan sebulan (pula) serta Kami alirkan cairan tembaga baginya. Sebagian dari jin ada yang bekerja di hadapannya dengan izin Tuhannya. Siapa yang menyimpang di antara mereka dari perintah Kami, Kami rasakan kepadanya azab (neraka) Sa‘ir (yang apinya menyala-nyala).",
+                                        "surat": "Saba",
+                                        "no_surat": "34",
+                                        "ayat": "12",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Yahya",
+                                        "imageSrc": "/images/ontologi/nabi/yahya.png",
+                                        "terjemahan": "(Allah berfirman,) “Wahai Zakaria, Kami memberi kabar gembira kepadamu dengan seorang anak laki-laki yang bernama <strong>Yahya</strong> yang nama itu tidak pernah Kami berikan sebelumnya.”",
+                                        "surat": "Maryam",
+                                        "no_surat": "19",
+                                        "ayat": "7",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Ya'qub",
+                                        "imageSrc": "/images/ontologi/nabi/yaqub.png",
+                                        "terjemahan": "Ibrahim mewasiatkan (ucapan) itu kepada anak-anaknya dan demikian pula <strong>Ya‘qub</strong>, “Wahai anak-anakku, sesungguhnya Allah telah memilih agama ini untukmu. Janganlah kamu mati kecuali dalam keadaan muslim.”",
+                                        "surat": "Al-Baqarah",
+                                        "no_surat": "2",
+                                        "ayat": "132",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Yusuf",
+                                        "imageSrc": "/images/ontologi/nabi/yusuf.png",
+                                        "terjemahan": "Sungguh, dalam (kisah) <strong>Yusuf</strong> dan saudara-saudaranya benar-benar terdapat tanda-tanda (kekuasaan Allah) bagi para penanya.",
+                                        "surat": "Yusuf",
+                                        "no_surat": "12",
+                                        "ayat": "7",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Zakaria",
+                                        "imageSrc": "/images/ontologi/nabi/yahya.png",
+                                        "terjemahan": "(Allah berfirman,) “Wahai <strong>Zakaria</strong>, Kami memberi kabar gembira kepadamu dengan seorang anak laki-laki yang bernama Yahya yang nama itu tidak pernah Kami berikan sebelumnya.”",
+                                        "surat": "Maryam",
+                                        "no_surat": "19",
+                                        "ayat": "7",
                                         "related_konsep": [],
                                         "subkategori": []
                                     }
