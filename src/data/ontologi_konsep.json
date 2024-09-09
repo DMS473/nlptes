@@ -1288,36 +1288,71 @@
                 "subkategori": [
                     {
                         "nama": "Surga Firdaus",
+                        "imageSrc": "/images/ontologi/lokasiDiAkhirat/firdaus.png",
+                        "terjemahan": "Sesungguhnya orang-orang yang beriman dan beramal saleh memperoleh <strong>surga Firdaus</strong> sebagai tempat tinggal.",
+                        "surat": "Al-Kahf",
+                        "no_surat": "18",
+                        "ayat": "107",
                         "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Surga 'Adn",
+                        "imageSrc": "/images/ontologi/lokasiDiAkhirat/surgaAdn.png",
+                        "terjemahan": "Allah telah menjanjikan kepada orang-orang mukmin laki-laki dan perempuan, surga-surga yang sungai-sungai mengalir di bawahnya, mereka kekal di dalamnya, dan tempat-tempat yang baik di <strong>surga ‘Adn</strong>. Rida Allah lebih besar. Itulah kemenangan yang agung.",
+                        "surat": "At-Taubah",
+                        "no_surat": "9",
+                        "ayat": "72",
                         "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Salsabil",
+                        "imageSrc": "/images/ontologi/lokasiDiAkhirat/salsabil.png",
+                        "terjemahan": "(yang didatangkan dari) sebuah mata air (di surga) yang dinamakan <strong>Salsabil</strong>.",
+                        "surat": "Al-Insan",
+                        "no_surat": "76",
+                        "ayat": "18",
                         "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Sidratulmuntaha",
+                        "imageSrc": "/images/ontologi/lokasiDiAkhirat/sidratulmuntaha.png",
+                        "terjemahan": "(yaitu ketika) di <strong>Sidratulmuntaha</strong>.",
+                        "surat": "An-Najm",
+                        "no_surat": "53",
+                        "ayat": "14",
                         "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Saqar",
+                        "imageSrc": "/images/ontologi/lokasiDiAkhirat/saqar.png",
+                        "terjemahan": "Pada hari (ketika) mereka diseret ke neraka dengan wajah (tertelungkup), (dikatakan kepada mereka,) “Rasakanlah sentuhan (api neraka) <strong>Saqar</strong>.”",
+                        "surat": "Al-Insan",
+                        "no_surat": "54",
+                        "ayat": "48",
                         "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Sijjin",
+                        "imageSrc": "/images/ontologi/lokasiDiAkhirat/sijjin.png",
+                        "terjemahan": "Jangan sekali-kali begitu! Sesungguhnya catatan orang yang durhaka benar-benar (tersimpan) dalam <strong>Sijjīn</strong>.",
+                        "surat": "Al-Mutaffifin",
+                        "no_surat": "83",
+                        "ayat": "7",
                         "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Pohon zaqum",
+                        "imageSrc": "/images/ontologi/lokasiDiAkhirat/zaqum.png",
+                        "terjemahan": "Apakah (makanan surga) itu hidangan yang lebih baik ataukah <strong>pohon zaqum</strong>?",
+                        "surat": "As-Saffat",
+                        "no_surat": "37",
+                        "ayat": "62",
                         "related_konsep": [],
                         "subkategori": []
                     }
@@ -1329,81 +1364,161 @@
                 "subkategori": [
                     {
                         "nama": "Negeri Babilonia",
+                        "imageSrc": "/images/ontologi/lokasiDiDunia/babilon.png",
+                        "terjemahan": "Mereka mengikuti apa yang dibaca oleh setan-setan pada masa Kerajaan Sulaiman. Sulaiman itu tidak kufur, tetapi setan-setan itulah yang kufur. Mereka mengajarkan sihir kepada manusia dan apa yang diturunkan kepada dua malaikat di <strong>negeri Babilonia</strong>, yaitu Harut dan Marut. Padahal, keduanya tidak mengajarkan sesuatu kepada seseorang sebelum mengatakan, “Sesungguhnya kami hanyalah fitnah (cobaan bagimu) oleh sebab itu janganlah kufur!” Maka, mereka mempelajari dari keduanya (malaikat itu) apa yang (dapat) memisahkan antara seorang (suami) dan istrinya. Mereka tidak akan dapat mencelakakan seseorang dengan (sihir)-nya, kecuali dengan izin Allah. Mereka mempelajari sesuatu yang mencelakakan dan tidak memberi manfaat kepada mereka. Sungguh, mereka benar-benar sudah mengetahui bahwa siapa yang membeli (menggunakan sihir) itu niscaya tidak akan mendapat keuntungan di akhirat. Sungguh, buruk sekali perbuatan mereka yang menjual dirinya dengan sihir jika mereka mengetahui(-nya).",
+                        "surat": "Al-Baqarah",
+                        "no_surat": "2",
+                        "ayat": "102",
                         "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Badar",
+                        "imageSrc": "/images/ontologi/lokasiDiDunia/badr.png",
+                        "terjemahan": "Sungguh, Allah benar-benar telah menolong kamu dalam Perang <strong>Badar</strong>, padahal kamu (pada saat itu) adalah orang-orang lemah. Oleh karena itu, bertakwalah kepada Allah agar kamu bersyukur.",
+                        "surat": "Ali 'Imran",
+                        "no_surat": "3",
+                        "ayat": "123",
                         "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Bakkah",
+                        "imageSrc": "/images/ontologi/lokasiDiDunia/bakkah.png",
+                        "terjemahan": "Sesungguhnya rumah (ibadah) pertama yang dibangun untuk manusia adalah (Baitullah) yang (berada) di <strong>Bakkah</strong> (Makkah) yang diberkahi dan menjadi petunjuk bagi seluruh alam.",
+                        "surat": "Ali 'Imran",
+                        "no_surat": "3",
+                        "ayat": "96",
                         "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Makkah",
+                        "imageSrc": "/images/ontologi/lokasiDiDunia/makkah.png",
+                        "terjemahan": "Dialah (Allah) yang menahan tangan (mencegah) mereka dari (upaya menganiaya) kamu dan menahan tangan (mencegah) kamu dari (upaya menganiaya) mereka di tengah (kota) <strong>Makkah</strong> setelah Dia memenangkan kamu atas mereka. Allah Maha Melihat apa yang kamu kerjakan. ",
+                        "surat": "Al-Fath",
+                        "no_surat": "48",
+                        "ayat": "24",
                         "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Hunain",
+                        "imageSrc": "/images/ontologi/lokasiDiDunia/hunain.png",
+                        "terjemahan": "Sungguh, Allah benar-benar telah menolong kamu (orang-orang mukmin) di medan peperangan yang banyak dan pada hari (perang) <strong>Hunain</strong> ketika banyaknya jumlahmu menakjubkanmu (sehingga membuatmu lengah). Maka, jumlah kamu yang banyak itu tidak memberi manfaat kepadamu sedikit pun dan bumi yang luas itu terasa sempit bagimu kemudian kamu lari berbalik ke belakang (bercerai-berai).",
+                        "surat": "At-Taubah",
+                        "no_surat": "9",
+                        "ayat": "25",
                         "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Iram",
+                        "imageSrc": "/images/ontologi/lokasiDiDunia/iram.png",
+                        "terjemahan": "(yaitu) penduduk <strong>Iram</strong> (ibu kota kaum ‘Ad) yang mempunyai bangunan-bangunan yang tinggi",
+                        "surat": "Al-Fajr",
+                        "no_surat": "89",
+                        "ayat": "7",
                         "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Madinah",
+                        "imageSrc": "/images/ontologi/lokasiDiDunia/madinah.png",
+                        "terjemahan": "Di antara orang-orang Arab Badui yang (tinggal) di sekitarmu ada orang-orang munafik. (Demikian pula) di antara penduduk <strong>Madinah</strong> (ada juga orang-orang munafik), mereka keterlaluan dalam kemunafikannya. Engkau (Nabi Muhammad) tidak mengetahui mereka, tetapi Kami mengetahuinya. Mereka akan Kami siksa dua kali, kemudian mereka akan dikembalikan kepada azab yang besar.",
+                        "surat": "At-Taubah",
+                        "no_surat": "9",
+                        "ayat": "101",
                         "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Yasrib",
+                        "imageSrc": "/images/ontologi/lokasiDiDunia/yasrib.png",
+                        "terjemahan": "(Ingatlah) ketika segolongan di antara mereka berkata, “Wahai penduduk <strong>Yasrib</strong> (Madinah), tidak ada tempat bagimu. Maka, kembalilah kamu!” Sebagian dari mereka meminta izin kepada Nabi (untuk kembali pulang) dengan berkata, “Sesungguhnya rumah-rumah kami terbuka (tidak ada penjaga).” Padahal, rumah-rumah itu tidak terbuka. Mereka hanya ingin lari (dari peperangan).",
+                        "surat": "Al-Ahzab",
+                        "no_surat": "33",
+                        "ayat": "13",
                         "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Ahqaf",
+                        "imageSrc": "/images/ontologi/lokasiDiDunia/ahqaf.png",
+                        "terjemahan": "Ingatlah saudara (kaum) ‘Ad (Hud) ketika dia mengingatkan kaumnya (yang tinggal) di (lembah) <strong>Ahqaf</strong>. Sungguh, telah berlalu para pemberi peringatan sebelum dan setelahnya. (Dia berkata,) “Janganlah kamu menyembah selain Allah. Sesungguhnya aku khawatir nanti kamu ditimpa azab pada hari yang besar.”",
+                        "surat": "Al-Ahqaf",
+                        "no_surat": "46",
+                        "ayat": "21",
                         "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Mesir",
+                        "imageSrc": "/images/ontologi/lokasiDiDunia/mesir.png",
+                        "terjemahan": "Telah Kami wahyukan kepada Musa dan saudaranya (Harun), “Ambillah oleh kamu berdua beberapa rumah di <strong>Mesir</strong> untuk tempat tinggal kaummu, jadikanlah rumah-rumahmu itu kiblat (tempat ibadah), dan tegakkanlah salat. Gembirakanlah orang-orang mukmin.”",
+                        "surat": "Yunus",
+                        "no_surat": "10",
+                        "ayat": "87",
                         "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Negeri Saba'",
+                        "imageSrc": "/images/ontologi/lokasiDiDunia/negeriSaba.png",
+                        "terjemahan": "Tidak lama kemudian (datanglah Hudhud), lalu ia berkata, “Aku telah mengetahui sesuatu yang belum engkau ketahui. Aku datang kepadamu dari <strong>negeri Saba’</strong> membawa suatu berita penting yang meyakinkan (kebenarannya.)",
+                        "surat": "An-Naml",
+                        "no_surat": "27",
+                        "ayat": "22",
                         "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Gunung Judiy",
+                        "imageSrc": "/images/ontologi/lokasiDiDunia/gunungJudiy.png",
+                        "terjemahan": "Difirmankan (oleh Allah), “Wahai bumi, telanlah airmu dan wahai langit, berhentilah (mencurahkan hujan).” Air pun disurutkan dan urusan (pembinasaan para pendurhaka) pun diselesaikan dan (kapal itu pun) berlabuh di atas <strong>gunung Judiy</strong>, dan dikatakan, “Kebinasaanlah bagi kaum yang zalim.”",
+                        "surat": "Hud",
+                        "no_surat": "11",
+                        "ayat": "44",
                         "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Marwah",
+                        "imageSrc": "/images/ontologi/lokasiDiDunia/marwah.png",
+                        "terjemahan": "Sesungguhnya Safa dan <strong>Marwah</strong> merupakan sebagian syiar (agama) Allah. Maka, siapa beribadah haji ke Baitullah atau berumrah, tidak ada dosa baginya mengerjakan sai antara keduanya. Siapa yang dengan kerelaan hati mengerjakan kebajikan, maka sesungguhnya Allah Maha Mensyukuri, lagi Maha Mengetahui. ",
+                        "surat": "Al-Baqarah",
+                        "no_surat": "2",
+                        "ayat": "158",
                         "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Safa",
+                        "imageSrc": "/images/ontologi/lokasiDiDunia/marwah.png",
+                        "terjemahan": "Sesungguhnya <strong>Safa</strong> dan Marwah merupakan sebagian syiar (agama) Allah. Maka, siapa beribadah haji ke Baitullah atau berumrah, tidak ada dosa baginya mengerjakan sai antara keduanya. Siapa yang dengan kerelaan hati mengerjakan kebajikan, maka sesungguhnya Allah Maha Mensyukuri, lagi Maha Mengetahui. ",
+                        "surat": "Al-Baqarah",
+                        "no_surat": "2",
+                        "ayat": "158",
                         "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Arafah",
+                        "imageSrc": "/images/ontologi/lokasiDiDunia/arafah.png",
+                        "terjemahan": "Bukanlah suatu dosa bagimu mencari karunia dari Tuhanmu (pada musim haji). Apabila kamu bertolak dari <strong>Arafah</strong>, berzikirlah kepada Allah di Masyarilharam. Berzikirlah kepada-Nya karena Dia telah memberi petunjuk kepadamu meskipun sebelumnya kamu benar-benar termasuk orang-orang yang sesat.",
+                        "surat": "Al-Baqarah",
+                        "no_surat": "2",
+                        "ayat": "198",
                         "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "Bukit Sinai",
+                        "imageSrc": "/images/ontologi/lokasiDiDunia/sinai.png",
+                        "terjemahan": "(Kami tumbuhkan) pohon (zaitun) yang tumbuh di <strong>Bukit Sinai</strong>, yang menghasilkan minyak dan lauk-pauk pembangkit selera bagi orang-orang yang makan.",
+                        "surat": "Al-Mu'minun",
+                        "no_surat": "23",
+                        "ayat": "20",
                         "related_konsep": [],
                         "subkategori": []
                     }
@@ -1421,6 +1536,11 @@
                 "subkategori": [
                     {
                         "nama": "hijau tua",
+                        "imageSrc": "/images/ontologi/hijau.png",
+                        "terjemahan": "(Dialah) yang menjadikan api untukmu dari kayu yang <strong>hijau</strong>. Kemudian, seketika itu kamu menyalakan (api) darinya.”",
+                        "surat": "Yasin",
+                        "no_surat": "36",
+                        "ayat": "80",
                         "related_konsep": [],
                         "subkategori": []
                     }
@@ -1434,26 +1554,51 @@
         "subkategori": [
             {
                 "nama": "Islam",
+                "imageSrc": "/images/ontologi/agama/islam.png",
+                "terjemahan": "Sesungguhnya agama (yang diridai) di sisi Allah ialah Islam. Orang-orang yang telah diberi kitab tidak berselisih, kecuali setelah datang pengetahuan kepada mereka karena kedengkian di antara mereka. Siapa yang kufur terhadap ayat-ayat Allah, sesungguhnya Allah sangat cepat perhitungan(-Nya).",
+                "surat": "Ali 'Imran",
+                "no_surat": "3",
+                "ayat": "19",
                 "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Nasrani",
+                "imageSrc": "/images/ontologi/agama/nasrani.png",
+                "terjemahan": "Sesungguhnya orang-orang yang beriman, orang-orang Yahudi, orang-orang <strong>Nasrani</strong>, dan orang-orang Sabiin, siapa saja (di antara mereka) yang beriman kepada Allah dan hari Akhir serta melakukan kebajikan (pasti) mendapat pahala dari Tuhannya, tidak ada rasa takut yang menimpa mereka dan mereka pun tidak bersedih hati.",
+                "surat": "Al-Baqarah",
+                "no_surat": "2",
+                "ayat": "62",
                 "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Yahudi",
+                "imageSrc": "/images/ontologi/agama/yahudi.png",
+                "terjemahan": "Ibrahim bukanlah seorang <strong>Yahudi</strong> dan bukan pula seorang Nasrani, melainkan dia adalah seorang yang hanif lagi berserah diri (muslim). Dia bukan pula termasuk (golongan) orang-orang musyrik.",
+                "surat": "Ali 'Imran",
+                "no_surat": "3",
+                "ayat": "67",
                 "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Majusi",
+                "imageSrc": "/images/ontologi/agama/majusi.png",
+                "terjemahan": "Sesungguhnya orang-orang yang beriman, orang-orang Yahudi, Sabiin, Nasrani, <strong>Majusi</strong>, dan orang-orang yang menyekutukan Allah akan Allah berikan keputusan di antara mereka pada hari Kiamat. Sesungguhnya Allah menjadi saksi atas segala sesuatu.",
+                "surat": "Al-Hajj",
+                "no_surat": "22",
+                "ayat": "17",
                 "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Sabiin",
+                "imageSrc": "/images/ontologi/agama/nasrani.png",
+                "terjemahan": "Sesungguhnya orang-orang yang beriman, orang-orang Yahudi, orang-orang Nasrani, dan orang-orang <strong>Sabiin</strong>, siapa saja (di antara mereka) yang beriman kepada Allah dan hari Akhir serta melakukan kebajikan (pasti) mendapat pahala dari Tuhannya, tidak ada rasa takut yang menimpa mereka dan mereka pun tidak bersedih hati.",
+                "surat": "Al-Baqarah",
+                "no_surat": "2",
+                "ayat": "62",
                 "related_konsep": [],
                 "subkategori": []
             }
@@ -1465,11 +1610,21 @@
         "subkategori": [
             {
                 "nama": "Manna",
+                "imageSrc": "/images/ontologi/burung/salwa.png",
+                "terjemahan": "Kami menaungi kamu dengan awan dan Kami menurunkan kepadamu <strong>manna</strong> dan salwa. Makanlah (makanan) yang baik-baik dari rezeki yang telah Kami berikan kepadamu. Mereka tidak menzalimi Kami, tetapi justru merekalah yang menzalimi diri sendiri.",
+                "surat": "Al-Baqarah",
+                "no_surat": "2",
+                "ayat": "57",
                 "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Salwa",
+                "imageSrc": "/images/ontologi/burung/salwa.png",
+                "terjemahan": "Kami menaungi kamu dengan awan dan Kami menurunkan kepadamu manna dan salwa. Makanlah (makanan) yang baik-baik dari rezeki yang telah Kami berikan kepadamu. Mereka tidak menzalimi Kami, tetapi justru merekalah yang menzalimi diri sendiri.",
+                "surat": "Al-Baqarah",
+                "no_surat": "2",
+                "ayat": "57",
                 "related_konsep": [],
                 "subkategori": []
             }
@@ -1481,11 +1636,21 @@
         "subkategori": [
             {
                 "nama": "Kurma",
+                "imageSrc": "/images/ontologi/agama/islam.png",
+                "terjemahan": "Sesungguhnya agama (yang diridai) di sisi Allah ialah Islam. Orang-orang yang telah diberi kitab tidak berselisih, kecuali setelah datang pengetahuan kepada mereka karena kedengkian di antara mereka. Siapa yang kufur terhadap ayat-ayat Allah, sesungguhnya Allah sangat cepat perhitungan(-Nya).",
+                "surat": "Ali 'Imran",
+                "no_surat": "3",
+                "ayat": "19",
                 "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Delima",
+                "imageSrc": "/images/ontologi/agama/islam.png",
+                "terjemahan": "Sesungguhnya agama (yang diridai) di sisi Allah ialah Islam. Orang-orang yang telah diberi kitab tidak berselisih, kecuali setelah datang pengetahuan kepada mereka karena kedengkian di antara mereka. Siapa yang kufur terhadap ayat-ayat Allah, sesungguhnya Allah sangat cepat perhitungan(-Nya).",
+                "surat": "Ali 'Imran",
+                "no_surat": "3",
+                "ayat": "19",
                 "related_konsep": [],
                 "subkategori": []
             }
@@ -1497,6 +1662,11 @@
         "subkategori": [
             {
                 "nama": "Lauf-mahfuzh",
+                "imageSrc": "/images/ontologi/agama/islam.png",
+                "terjemahan": "Sesungguhnya agama (yang diridai) di sisi Allah ialah Islam. Orang-orang yang telah diberi kitab tidak berselisih, kecuali setelah datang pengetahuan kepada mereka karena kedengkian di antara mereka. Siapa yang kufur terhadap ayat-ayat Allah, sesungguhnya Allah sangat cepat perhitungan(-Nya).",
+                "surat": "Ali 'Imran",
+                "no_surat": "3",
+                "ayat": "19",
                 "related_konsep": [],
                 "subkategori": []
             }
