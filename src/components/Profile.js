@@ -7,6 +7,7 @@ import fotoRia from '../data/images/Ria Hari Gusmita.jpg'
 import fotoElisa from '../data/images/elisa.jpeg'
 import fotoAisha from '../data/images/aisha.jpeg'
 import fotoDaffa from '../data/images/Gantenk.jpg'
+import avatar from '../data/images/avatar.png'
 
 const Profile = () => {
     const dosen = [
@@ -22,7 +23,7 @@ const Profile = () => {
         },
         {
             name: "Kamal Fikry Musa, Lc., M.A",
-            img: fotoDaffa,
+            img: avatar,
             description: "Dosen di Program Studi Ilmu Al-Qur'an dan Tafsir"
         },
         {
@@ -51,7 +52,7 @@ const Profile = () => {
         },
         {
             name: "Muhammad Daffa Muis",
-            img: fotoDaffa,
+            img: avatar,
             description: "Mahasiswa di Program Studi Teknik Informatika"
         },
         // Tambahkan data lainnya...
