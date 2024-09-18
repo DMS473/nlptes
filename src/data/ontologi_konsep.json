@@ -57,6 +57,11 @@
         "related_konsep": [
             {
                 "nama": "Bintang Syi'ra",
+                "imageSrc": "/images/ontologi/bintangsyira.png",
+                "terjemahan": "bahwa sesungguhnya Dialah Tuhan (yang memiliki) <strong>bintang Syi‘ra</strong>,",
+                "surat": "An-Najm",
+                "no_surat": "53",
+                "ayat": "49",
                 "related_konsep": [],
                 "subkategori": []
             },
@@ -211,17 +216,21 @@
                 "subkategori": [
                     {
                         "nama": "subuh",
-                        "imageSrc": "/images/ontologi/subuh.png",
+                        "imageSrc": "/images/ontologi/subuh2.png",
+                        "terjemahan": "Dirikanlah salat sejak matahari tergelincir sampai gelapnya malam dan (laksanakan pula salat) <strong>Subuh</strong>! Sesungguhnya salat <strong>Subuh</strong> itu disaksikan (oleh malaikat).",
+                        "surat": "Al-Isra'",
+                        "no_surat": "17",
+                        "ayat": "78",
                         "related_konsep": [],
                         "subkategori": []
                     },
                     {
                         "nama": "fajr",
-                        "imageSrc": "/images/ontologi/subuh.png",
-                        "terjemahan": "Dirikanlah salat sejak matahari tergelincir sampai gelapnya malam dan (laksanakan pula salat) <strong>Subuh</strong>! Sesungguhnya salat <strong>Subuh</strong> itu disaksikan (oleh malaikat).",
-                        "surat": "Al-Isra'",
-                        "no_surat": "17",
-                        "ayat": "78",
+                        "imageSrc": "/images/ontologi/alfajr.png",
+                        "terjemahan": "Demi waktu <strong>fajar</strong>,",
+                        "surat": "Al-Fajr",
+                        "no_surat": "89",
+                        "ayat": "1",
                         "related_konsep": [],
                         "subkategori": []
                     }
@@ -461,16 +470,6 @@
                                         "subkategori": []
                                     },
                                     {
-                                        "nama": "Kurma",
-                                        "imageSrc": "/images/ontologi/tanaman/kurma.png",
-                                        "terjemahan": "Dialah yang menurunkan air dari langit lalu dengannya Kami menumbuhkan segala macam tumbuhan. Maka, darinya Kami mengeluarkan tanaman yang menghijau. Darinya Kami mengeluarkan butir yang bertumpuk (banyak). Dari mayang <strong>kurma</strong> (mengurai) tangkai-tangkai yang menjuntai. (Kami menumbuhkan) kebun-kebun anggur. (Kami menumbuhkan pula) zaitun dan delima yang serupa dan yang tidak serupa. Perhatikanlah buahnya pada waktu berbuah dan menjadi masak. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda (kekuasaan Allah) bagi kaum yang beriman.",
-                                        "surat": "Al-An'am",
-                                        "no_surat": "6",
-                                        "ayat": "99",
-                                        "related_konsep": [],
-                                        "subkategori": []
-                                    },
-                                    {
                                         "nama": "Tin",
                                         "imageSrc": "/images/ontologi/tanaman/tin.png",
                                         "terjemahan": "Demi (buah) <strong>tin</strong> dan (buah) zaitun,",
@@ -509,16 +508,6 @@
                                         "ayat": "11",
                                         "related_konsep": [],
                                         "subkategori": []
-                                    },
-                                    {
-                                        "nama": "Delima",
-                                        "imageSrc": "/images/ontologi/tanaman/kurma.png",
-                                        "terjemahan": "Dialah yang menurunkan air dari langit lalu dengannya Kami menumbuhkan segala macam tumbuhan. Maka, darinya Kami mengeluarkan tanaman yang menghijau. Darinya Kami mengeluarkan butir yang bertumpuk (banyak). Dari mayang kurma (mengurai) tangkai-tangkai yang menjuntai. (Kami menumbuhkan) kebun-kebun anggur. (Kami menumbuhkan pula) zaitun dan <strong>delima</strong> yang serupa dan yang tidak serupa. Perhatikanlah buahnya pada waktu berbuah dan menjadi masak. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda (kekuasaan Allah) bagi kaum yang beriman.",
-                                        "surat": "Al-An'am",
-                                        "no_surat": "6",
-                                        "ayat": "99",
-                                        "related_konsep": [],
-                                        "subkategori": []
                                     }
                                 ]
                             },
@@ -533,16 +522,6 @@
                                         "surat": "An-Naml",
                                         "no_surat": "27",
                                         "ayat": "20",
-                                        "related_konsep": [],
-                                        "subkategori": []
-                                    },
-                                    {
-                                        "nama": "Salwa",
-                                        "imageSrc": "/images/ontologi/burung/salwa.png",
-                                        "terjemahan": "Kami menaungi kamu dengan awan dan Kami menurunkan kepadamu manna dan <strong>salwa</strong>. Makanlah (makanan) yang baik-baik dari rezeki yang telah Kami berikan kepadamu. Mereka tidak menzalimi Kami, tetapi justru merekalah yang menzalimi diri sendiri.",
-                                        "surat": "Al-Baqarah",
-                                        "no_surat": "2",
-                                        "ayat": "57",
                                         "related_konsep": [],
                                         "subkategori": []
                                     }
@@ -569,8 +548,19 @@
                 ]
             },
             {
-                "nama": "Ciptaan sentinen: makhluk bergerak dari bumi",
-                "related_konsep": [],
+                "nama": "Ciptaan sentinen",
+                "related_konsep": [
+                    {
+                        "nama": "makhluk bergerak dari bumi",
+                        "imageSrc": "/images/ontologi/makhlukbergerak.png",
+                        "terjemahan": "Apabila perkataan (ketentuan masa kehancuran alam) telah berlaku atas mereka, Kami mengeluarkan <strong>makhluk bergerak dari bumi</strong> yang akan mengatakan kepada mereka bahwa manusia selama ini tidak yakin pada ayat-ayat Kami.",
+                        "surat": "An-Naml",
+                        "no_surat": "27",
+                        "ayat": "82",
+                        "related_konsep": [],
+                        "subkategori": []
+                    }
+                ],
                 "subkategori": [
                     {
                         "nama": "Malaikat",
@@ -809,7 +799,7 @@
                                     {
                                         "nama": "Kaum Tubba'",
                                         "imageSrc": "/images/ontologi/kaumBersejarah/tubba.png",
-                                        "terjemahan": "Apakah mereka yang lebih baik atau kaum <strong>Tubba‘</strong> dan orang-orang yang sebelum mereka. Kami telah membinasakan mereka karena sesungguhnya mereka adalah para pendurhaka.",
+                                        "terjemahan": "Apakah mereka yang lebih baik atau <strong>kaum Tubba‘</strong> dan orang-orang yang sebelum mereka. Kami telah membinasakan mereka karena sesungguhnya mereka adalah para pendurhaka.",
                                         "surat": "Al-A'raf",
                                         "no_surat": "7",
                                         "ayat": "73",
@@ -980,11 +970,21 @@
                                 "subkategori": [
                                     {
                                         "nama": "Raja Mesir",
+                                        "imageSrc": "/images/ontologi/orangBersejarah/uzair.png",
+                                        "terjemahan": "Orang-orang Yahudi berkata, “<strong>Uzair</strong> putra Allah,” dan orang-orang Nasrani berkata, “Al-Masih putra Allah.” Itulah ucapan mereka dengan mulut-mulut mereka. Mereka meniru ucapan orang-orang yang kufur sebelumnya. Allah melaknat mereka; bagaimana mereka sampai berpaling?",
+                                        "surat": "At-Taubah",
+                                        "no_surat": "9",
+                                        "ayat": "30",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
                                     {
                                         "nama": "Balqis",
+                                        "imageSrc": "/images/ontologi/bilqis.png",
+                                        "terjemahan": "Dia (<strong>Balqis</strong>) berkata, “Wahai para pembesar, sesungguhnya telah disampaikan kepadaku sebuah surat yang penting.”",
+                                        "surat": "An-Naml",
+                                        "no_surat": "27",
+                                        "ayat": "29",
                                         "related_konsep": [],
                                         "subkategori": []
                                     }
@@ -1107,7 +1107,7 @@
                                     {
                                         "nama": "Yunus",
                                         "imageSrc": "/images/ontologi/rasul/yunus.png",
-                                        "terjemahan": "Sesungguhnya Kami telah mewahyukan kepadamu (Nabi Muhammad) sebagaimana Kami telah mewahyukan kepada Nuh dan nabi-nabi setelahnya. Kami telah mewahyukan pula kepada Ibrahim, Ismail, Ishaq, Ya‘qub dan keturunan(-nya), Isa, Ayyub, <strong>Yunus<strong>, Harun, dan Sulaiman. Kami telah memberikan (Kitab) Zabur kepada Daud.",
+                                        "terjemahan": "Sesungguhnya Kami telah mewahyukan kepadamu (Nabi Muhammad) sebagaimana Kami telah mewahyukan kepada Nuh dan nabi-nabi setelahnya. Kami telah mewahyukan pula kepada Ibrahim, Ismail, Ishaq, Ya‘qub dan keturunan(-nya), Isa, Ayyub, <strong>Yunus</strong>, Harun, dan Sulaiman. Kami telah memberikan (Kitab) Zabur kepada Daud.",
                                         "surat": "An-Nisa",
                                         "no_surat": "4",
                                         "ayat": "163",
@@ -1212,11 +1212,11 @@
                                     },
                                     {
                                         "nama": "Isa Almasih putra Maryam",
-                                        "imageSrc": "/images/ontologi/rasul/isa.png",
-                                        "terjemahan": "(Ingatlah) ketika <strong>Isa putra Maryam</strong> berkata, “Wahai Bani Israil, sesungguhnya aku adalah utusan Allah kepadamu untuk membenarkan kitab (yang turun) sebelumku, yaitu Taurat, dan memberi kabar gembira tentang seorang utusan Allah yang akan datang setelahku yang namanya Ahmad (Nabi Muhammad).” Akan tetapi, ketika utusan itu datang kepada mereka dengan membawa bukti-bukti yang nyata, mereka berkata, “Ini adalah sihir yang nyata.”",
-                                        "surat": "As-Saff",
-                                        "no_surat": "61",
-                                        "ayat": "6",
+                                        "imageSrc": "/images/ontologi/nabi/isaalmasih.png",
+                                        "terjemahan": "(Ingatlah) ketika Malaikat (Jibril) berkata, “Wahai Maryam, sesungguhnya Allah menyampaikan kabar gembira kepadamu tentang (kelahiran anak yang diciptakan) dengan kalimat dari-Nya, namanya <strong>Isa Almasih putra Maryam</strong>, seorang terkemuka di dunia dan di akhirat serta termasuk orang-orang yang didekatkan (kepada Allah).",
+                                        "surat": "Ali 'Imran",
+                                        "no_surat": "3",
+                                        "ayat": "45",
                                         "related_konsep": [],
                                         "subkategori": []
                                     },
@@ -1242,7 +1242,7 @@
                                     },
                                     {
                                         "nama": "Ya'qub",
-                                        "imageSrc": "/images/ontologi/nabi/yaqub.png",
+                                        "imageSrc": "/images/ontologi/nabi/yaqub2.png",
                                         "terjemahan": "Ibrahim mewasiatkan (ucapan) itu kepada anak-anaknya dan demikian pula <strong>Ya‘qub</strong>, “Wahai anak-anakku, sesungguhnya Allah telah memilih agama ini untukmu. Janganlah kamu mati kecuali dalam keadaan muslim.”",
                                         "surat": "Al-Baqarah",
                                         "no_surat": "2",
@@ -1536,11 +1536,11 @@
                 "subkategori": [
                     {
                         "nama": "hijau tua",
-                        "imageSrc": "/images/ontologi/hijau.png",
-                        "terjemahan": "(Dialah) yang menjadikan api untukmu dari kayu yang <strong>hijau</strong>. Kemudian, seketika itu kamu menyalakan (api) darinya.”",
-                        "surat": "Yasin",
-                        "no_surat": "36",
-                        "ayat": "80",
+                        "imageSrc": "/images/ontologi/hijautua.png",
+                        "terjemahan": "Kedua surga itu (terlihat warnanya) <strong>hijau tua</strong>.",
+                        "surat": "Ar-Rahman",
+                        "no_surat": "55",
+                        "ayat": "64",
                         "related_konsep": [],
                         "subkategori": []
                     }
@@ -1621,7 +1621,7 @@
             {
                 "nama": "Salwa",
                 "imageSrc": "/images/ontologi/burung/salwa.png",
-                "terjemahan": "Kami menaungi kamu dengan awan dan Kami menurunkan kepadamu manna dan salwa. Makanlah (makanan) yang baik-baik dari rezeki yang telah Kami berikan kepadamu. Mereka tidak menzalimi Kami, tetapi justru merekalah yang menzalimi diri sendiri.",
+                "terjemahan": "Kami menaungi kamu dengan awan dan Kami menurunkan kepadamu manna dan <strong>salwa</strong>. Makanlah (makanan) yang baik-baik dari rezeki yang telah Kami berikan kepadamu. Mereka tidak menzalimi Kami, tetapi justru merekalah yang menzalimi diri sendiri.",
                 "surat": "Al-Baqarah",
                 "no_surat": "2",
                 "ayat": "57",
@@ -1636,21 +1636,21 @@
         "subkategori": [
             {
                 "nama": "Kurma",
-                "imageSrc": "/images/ontologi/agama/islam.png",
-                "terjemahan": "Sesungguhnya agama (yang diridai) di sisi Allah ialah Islam. Orang-orang yang telah diberi kitab tidak berselisih, kecuali setelah datang pengetahuan kepada mereka karena kedengkian di antara mereka. Siapa yang kufur terhadap ayat-ayat Allah, sesungguhnya Allah sangat cepat perhitungan(-Nya).",
-                "surat": "Ali 'Imran",
-                "no_surat": "3",
-                "ayat": "19",
+                "imageSrc": "/images/ontologi/kurma-maryam.png",
+                "terjemahan": "Goyanglah pangkal pohon <strong>kurma</strong> itu ke arahmu, niscaya (pohon) itu akan menjatuhkan buah <strong>kurma</strong> yang masak kepadamu.",
+                "surat": "Maryam",
+                "no_surat": "19",
+                "ayat": "25",
                 "related_konsep": [],
                 "subkategori": []
             },
             {
                 "nama": "Delima",
-                "imageSrc": "/images/ontologi/agama/islam.png",
-                "terjemahan": "Sesungguhnya agama (yang diridai) di sisi Allah ialah Islam. Orang-orang yang telah diberi kitab tidak berselisih, kecuali setelah datang pengetahuan kepada mereka karena kedengkian di antara mereka. Siapa yang kufur terhadap ayat-ayat Allah, sesungguhnya Allah sangat cepat perhitungan(-Nya).",
-                "surat": "Ali 'Imran",
-                "no_surat": "3",
-                "ayat": "19",
+                "imageSrc": "/images/ontologi/delima2.png",
+                "terjemahan": "Dialah yang menumbuhkan tanaman-tanaman yang merambat dan yang tidak merambat, pohon kurma, tanaman yang beraneka ragam rasanya, serta zaitun dan <strong>delima</strong> yang serupa (bentuk dan warnanya) dan tidak serupa (rasanya). Makanlah buahnya apabila ia berbuah dan berikanlah haknya (zakatnya) pada waktu memetik hasilnya. Akan tetapi, janganlah berlebih-lebihan. Sesungguhnya Allah tidak menyukai orang-orang yang berlebih-lebihan.",
+                "surat": "Al-An'am",
+                "no_surat": "6",
+                "ayat": "141",
                 "related_konsep": [],
                 "subkategori": []
             }
@@ -1662,11 +1662,11 @@
         "subkategori": [
             {
                 "nama": "Lauf-mahfuzh",
-                "imageSrc": "/images/ontologi/agama/islam.png",
-                "terjemahan": "Sesungguhnya agama (yang diridai) di sisi Allah ialah Islam. Orang-orang yang telah diberi kitab tidak berselisih, kecuali setelah datang pengetahuan kepada mereka karena kedengkian di antara mereka. Siapa yang kufur terhadap ayat-ayat Allah, sesungguhnya Allah sangat cepat perhitungan(-Nya).",
-                "surat": "Ali 'Imran",
-                "no_surat": "3",
-                "ayat": "19",
+                "imageSrc": "/images/ontologi/laufmahfuzh.png",
+                "terjemahan": "yang (tersimpan) dalam (tempat) yang terjaga (<strong>Lauhulmahfuz</strong>).",
+                "surat": "Al-Buruj",
+                "no_surat": "85",
+                "ayat": "22",
                 "related_konsep": [],
                 "subkategori": []
             }
